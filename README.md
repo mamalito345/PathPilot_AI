@@ -16,13 +16,29 @@
 Bu proje, lise son sınıf öğrencilerinin **büyük veri**, **öğrenme mühendisliği** ve **yapay zeka** desteği ile meslek seçim süreçlerini bilinçli şekilde gerçekleştirmelerine olanak tanıyan bir kariyer keşif platformudur.
 
 ---
+🌍 Career Path Nedir?
+Career Path, genç bireylerin gelecekteki mesleklerini seçerken yalnızca kendi ilgi ve yeteneklerine değil, aynı zamanda toplumsal ihtiyaçlara, ekonomik sürdürülebilirliğe ve çevresel etkilere de duyarlı kararlar almalarını destekleyen bir platformdur.
 
-## 🚀 Proje Amacı
+Bugünün gençleri, sadece bir meslek değil; bir yaşam biçimi, bir değer seti ve bir etki alanı seçiyor. Geleceğin mesleklerini şekillendiren en önemli faktörlerin başında çevresel krizler, dijital dönüşüm ve iş gücündeki yapısal değişim geliyor. Biz de bu gerçekliğin farkındayız.
 
-Öğrencilerin:
-- İlgi ve yeteneklerini tanıyarak,
-- Büyük veri analizi ile iş gücü piyasasını değerlendirerek,
-- Yapay zekâ destekli eşleştirmelerle,
+Career Path, bireyleri veri temelli bir yaklaşımla yönlendirirken, aynı zamanda:
+
+Aşırı üretim ve tüketim döngüsünün oluşturduğu iş gücü etkilerini fark ettirir,
+
+Dijital ve yeşil dönüşümle ortaya çıkan yeni meslek alanlarına dikkat çeker,
+
+Kariyer kararlarının uzun vadeli ekosistem etkilerine dair farkındalık yaratır.
+
+Amacımız yalnızca “hangi mesleği seçmeliyim?” sorusuna cevap vermek değil, aynı zamanda “hangi etkiyi bırakmak istiyorum?” sorusunu da sordurmak.
+
+Geleceğin iş gücü; sadece verimli değil, aynı zamanda sorumlu ve fark yaratan bireylerden oluşmalı. Bu nedenle, Career Path’in temel hedeflerinden biri;
+✅ Dijital eşitsizlikleri azaltmak,
+✅ İklim duyarlılığı olan kariyerler teşvik etmek,
+✅ Bireylere anlamlı, verimli ve sürdürülebilir meslek yolları sunmaktır.
+
+Bu yolda sağlam bir teknolojik altyapı, güvenilir bir veri temeli ve öğrencinin gelişimini önceleyen bir öğrenme mühendisliği yaklaşımı ile hareket ediyoruz.
+
+
 **gelecekte geçerliliğini koruyacak meslekleri** keşfetmelerini sağlamak amaçlanmıştır.
 
 ---
