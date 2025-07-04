@@ -33,75 +33,57 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
   <details>
     <summary>🚀 Sprint 1</summary>
-
-    ### 📱 Uygulama Ekran Görüntüleri  
-    Metni buraya koyacaksın.
-
-    ---
-
-    ### 📊 Tablo Güncellemeleri Ekran Görüntüleri  
-    Metni buraya koyacaksın.
-
-    ---
-
-    ### 📈 Grafikler ve Tablolar  
-    Metni buraya koyacaksın.
-
-    ---
-
-    ### 📝 Notlar  
-    Metni buraya koyacaksın.
-
+      <details>
+        <summary>### 📱 Uygulama Ekran Görüntüleri</summary>
+        Metni buraya koyacaksın.
+      </details>
+        <summary>### 📊 Tablo Güncellemeleri Ekran Görüntüleri</summary>
+        Metni buraya koyacaksın.
+      </details>
+        <summary>### 📈 Grafikler ve Tablolar</summary>
+        Metni buraya koyacaksın.
+      </details>
+        <summary>### 📝 Notlar</summary>
+        Metni buraya koyacaksın.
+      </details>
   </details>
 
   ---
 
   <details>
     <summary>🚀 Sprint 2</summary>
-
-    ### 📱 Uygulama Ekran Görüntüleri  
-    Metni buraya koyacaksın.
-
-    ---
-
-    ### 📊 Tablo Güncellemeleri Ekran Görüntüleri  
-    Metni buraya koyacaksın.
-
-    ---
-
-    ### 📈 Grafikler ve Tablolar  
-    Metni buraya koyacaksın.
-
-    ---
-
-    ### 📝 Notlar  
-    Metni buraya koyacaksın.
-
+      <details>
+        <summary>### 📱 Uygulama Ekran Görüntüleri</summary>
+        Metni buraya koyacaksın.
+      </details>
+        <summary>### 📊 Tablo Güncellemeleri Ekran Görüntüleri</summary>
+        Metni buraya koyacaksın.
+      </details>
+        <summary>### 📈 Grafikler ve Tablolar</summary>
+        Metni buraya koyacaksın.
+      </details>
+        <summary>### 📝 Notlar</summary>
+        Metni buraya koyacaksın.
+      </details>
   </details>
 
   ---
 
   <details>
     <summary>🚀 Sprint 3</summary>
-
-    ### 📱 Uygulama Ekran Görüntüleri  
-    Metni buraya koyacaksın.
-
-    ---
-
-    ### 📊 Tablo Güncellemeleri Ekran Görüntüleri  
-    Metni buraya koyacaksın.
-
-    ---
-
-    ### 📈 Grafikler ve Tablolar  
-    Metni buraya koyacaksın.
-
-    ---
-
-    ### 📝 Notlar  
-    Metni buraya koyacaksın.
-
+      <details>
+        <summary>### 📱 Uygulama Ekran Görüntüleri</summary>
+        Metni buraya koyacaksın.
+      </details>
+        <summary>### 📊 Tablo Güncellemeleri Ekran Görüntüleri</summary>
+        Metni buraya koyacaksın.
+      </details>
+        <summary>### 📈 Grafikler ve Tablolar</summary>
+        Metni buraya koyacaksın.
+      </details>
+        <summary>### 📝 Notlar</summary>
+        Metni buraya koyacaksın.
+      </details>
   </details>
 
 </details>
