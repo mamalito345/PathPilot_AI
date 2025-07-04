@@ -17,21 +17,27 @@ Bu proje, lise son sınıf öğrencilerinin **büyük veri**, **öğrenme mühen
 
 ---
 **🌍 Career Path Nedir?**
+
 Career Path, genç bireylerin gelecekteki mesleklerini seçerken yalnızca kendi ilgi ve yeteneklerine değil, aynı zamanda toplumsal ihtiyaçlara, ekonomik sürdürülebilirliğe ve çevresel etkilere de duyarlı kararlar almalarını destekleyen bir platformdur.
 
 **Yeni Nesil Kariyer Anlayışı**
+
 Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçimi, bir değer seti ve bir etki alanı seçiyor. Geleceğin mesleklerini şekillendiren en önemli faktörlerin başında çevresel krizler, dijital dönüşüm ve iş gücündeki yapısal değişim geliyor. Career Path olarak biz de bu gerçekliğin farkında olarak hareket ediyoruz.
 
 **Veriye Dayalı ve Duyarlı Yönlendirme**
+
 Career Path, bireyleri yalnızca veri temelli bir yaklaşımla yönlendirmekle kalmaz; aynı zamanda aşırı üretim ve tüketim döngüsünün oluşturduğu iş gücü etkilerini fark ettirmeyi amaçlar. Dijital ve yeşil dönüşümle ortaya çıkan yeni meslek alanlarına dikkat çekerken, kariyer kararlarının uzun vadeli ekosistem etkilerine dair de farkındalık yaratır.
 
 **Etki Odaklı Bir Yaklaşım**
+
 Platform olarak amacımız sadece “hangi mesleği seçmeliyim?” sorusuna cevap vermek değil, bireylerin aynı zamanda “hangi etkiyi bırakmak istiyorum?” sorusunu da kendilerine sormalarını sağlamaktır. Çünkü bizce geleceğin iş gücü; yalnızca verimli değil, aynı zamanda sorumlu ve fark yaratan bireylerden oluşmalıdır.
 
 **Sürdürülebilir Gelecek İçin Hedefler**
+
 Career Path’in temel hedeflerinden biri, dijital eşitsizlikleri azaltmak, iklim duyarlılığı olan kariyerleri teşvik etmek ve bireylere anlamlı, verimli ve sürdürülebilir meslek yolları sunmaktır. Bu hedefler doğrultusunda sağlam bir teknolojik altyapı, güvenilir bir veri temeli ve öğrencinin gelişimini önceleyen bir öğrenme mühendisliği yaklaşımı ile hareket ediyoruz.
 
 **Geleceğin Mesleklerini Keşfetmek**
+
 Tüm bu çabalarımız, bireylerin gelecekte geçerliliğini koruyacak meslekleri keşfetmelerini sağlamak içindir. Böylece her birey, hem kendisi hem de dünya için daha anlamlı ve sürdürülebilir bir kariyer yolculuğuna çıkabilir.
 
 **gelecekte geçerliliğini koruyacak meslekleri** keşfetmelerini sağlamak amaçlanmıştır.**
