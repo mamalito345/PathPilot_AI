@@ -29,65 +29,24 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 <!-- Sadece bir seviye iç içe olacak şekilde yeniden yapılandırıldı -->
 
 <details>
-  <summary>📋 Sprintler</summary>
+  <summary>🚀 Sprint 1</summary>
 
   <details>
-    <summary>🚀 Sprint 1</summary>
-      <details>
-      <summary>### 📱 Uygulama Ekran Görüntüleri</summary>
-        Metni buraya koyacaksın.
-      </details>
-      <summary>### 📊 Tablo Güncellemeleri Ekran Görüntüleri</summary>
-        Metni buraya koyacaksın.
-      </details>
-      <summary>### 📈 Grafikler ve Tablolar</summary>
-        Metni buraya koyacaksın.
-      </details>
-      <summary>### 📝 Notlar</summary>
-        Metni buraya koyacaksın.
-      </details>
+    <summary>📱 Uygulama Ekran Görüntüleri</summary>
+    Buraya uygulama ekran görüntüleriyle ilgili metni koyacaksın.
   </details>
 
-  ---
-
   <details>
-    <summary>🚀 Sprint 2</summary>
-      <details>
-      <summary>### 📱 Uygulama Ekran Görüntüleri</summary>
-        Metni buraya koyacaksın.
-      </details>
-      <summary>### 📊 Tablo Güncellemeleri Ekran Görüntüleri</summary>
-        Metni buraya koyacaksın.
-      </details>
-      <summary>### 📈 Grafikler ve Tablolar</summary>
-        Metni buraya koyacaksın.
-      </details>
-      <summary>### 📝 Notlar</summary>
-        Metni buraya koyacaksın.
-      </details>
+    <summary>📊 Tablo Güncellemeleri Ekran Görüntüleri</summary>
+    Buraya tablo güncellemeleriyle ilgili metni koyacaksın.
   </details>
 
-  ---
-
   <details>
-    <summary>🚀 Sprint 3</summary>
-      <details>
-      <summary>### 📱 Uygulama Ekran Görüntüleri</summary>
-        Metni buraya koyacaksın.
-      </details>
-      <summary>### 📊 Tablo Güncellemeleri Ekran Görüntüleri</summary>
-        Metni buraya koyacaksın.
-      </details>
-      <summary>### 📈 Grafikler ve Tablolar</summary>
-        Metni buraya koyacaksın.
-      </details>
-      <summary>### 📝 Notlar</summary>
-        Metni buraya koyacaksın.
-      </details>
+    <summary>📈 Grafikler ve Tablolar</summary>
+    Buraya grafikler ve tablolarla ilgili metni koyacaksın.
   </details>
 
 </details>
-
 
 
 ---
