@@ -26,7 +26,7 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
  
 ---
-<!-- Sadece bir seviye iç içe olacak şekilde yeniden yapılandırıldı -->
+## 📚 Sprintler
 
 <details>
   <summary>🚀 Sprint 1</summary>
@@ -45,6 +45,47 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
     <summary>📈 Grafikler ve Tablolar</summary>
     Buraya grafikler ve tablolarla ilgili metni koyacaksın.
   </details>
+  metin
+
+</details>
+<details>
+  <summary>🚀 Sprint 1</summary>
+
+  <details>
+    <summary>📱 Uygulama Ekran Görüntüleri</summary>
+    Buraya uygulama ekran görüntüleriyle ilgili metni koyacaksın.
+  </details>
+
+  <details>
+    <summary>📊 Tablo Güncellemeleri Ekran Görüntüleri</summary>
+    Buraya tablo güncellemeleriyle ilgili metni koyacaksın.
+  </details>
+
+  <details>
+    <summary>📈 Grafikler ve Tablolar</summary>
+    Buraya grafikler ve tablolarla ilgili metni koyacaksın.
+  </details>
+  metin
+
+</details>
+<details>
+  <summary>🚀 Sprint 1</summary>
+
+  <details>
+    <summary>📱 Uygulama Ekran Görüntüleri</summary>
+    Buraya uygulama ekran görüntüleriyle ilgili metni koyacaksın.
+  </details>
+
+  <details>
+    <summary>📊 Tablo Güncellemeleri Ekran Görüntüleri</summary>
+    Buraya tablo güncellemeleriyle ilgili metni koyacaksın.
+  </details>
+
+  <details>
+    <summary>📈 Grafikler ve Tablolar</summary>
+    Buraya grafikler ve tablolarla ilgili metni koyacaksın.
+  </details>
+  metin
 
 </details>
 
