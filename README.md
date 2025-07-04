@@ -34,16 +34,16 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
   <details>
     <summary>🚀 Sprint 1</summary>
       <details>
-        <summary>### 📱 Uygulama Ekran Görüntüleri</summary>
+      <summary>### 📱 Uygulama Ekran Görüntüleri</summary>
         Metni buraya koyacaksın.
       </details>
-        <summary>### 📊 Tablo Güncellemeleri Ekran Görüntüleri</summary>
+      <summary>### 📊 Tablo Güncellemeleri Ekran Görüntüleri</summary>
         Metni buraya koyacaksın.
       </details>
-        <summary>### 📈 Grafikler ve Tablolar</summary>
+      <summary>### 📈 Grafikler ve Tablolar</summary>
         Metni buraya koyacaksın.
       </details>
-        <summary>### 📝 Notlar</summary>
+      <summary>### 📝 Notlar</summary>
         Metni buraya koyacaksın.
       </details>
   </details>
@@ -53,16 +53,16 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
   <details>
     <summary>🚀 Sprint 2</summary>
       <details>
-        <summary>### 📱 Uygulama Ekran Görüntüleri</summary>
+      <summary>### 📱 Uygulama Ekran Görüntüleri</summary>
         Metni buraya koyacaksın.
       </details>
-        <summary>### 📊 Tablo Güncellemeleri Ekran Görüntüleri</summary>
+      <summary>### 📊 Tablo Güncellemeleri Ekran Görüntüleri</summary>
         Metni buraya koyacaksın.
       </details>
-        <summary>### 📈 Grafikler ve Tablolar</summary>
+      <summary>### 📈 Grafikler ve Tablolar</summary>
         Metni buraya koyacaksın.
       </details>
-        <summary>### 📝 Notlar</summary>
+      <summary>### 📝 Notlar</summary>
         Metni buraya koyacaksın.
       </details>
   </details>
@@ -72,16 +72,16 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
   <details>
     <summary>🚀 Sprint 3</summary>
       <details>
-        <summary>### 📱 Uygulama Ekran Görüntüleri</summary>
+      <summary>### 📱 Uygulama Ekran Görüntüleri</summary>
         Metni buraya koyacaksın.
       </details>
-        <summary>### 📊 Tablo Güncellemeleri Ekran Görüntüleri</summary>
+      <summary>### 📊 Tablo Güncellemeleri Ekran Görüntüleri</summary>
         Metni buraya koyacaksın.
       </details>
-        <summary>### 📈 Grafikler ve Tablolar</summary>
+      <summary>### 📈 Grafikler ve Tablolar</summary>
         Metni buraya koyacaksın.
       </details>
-        <summary>### 📝 Notlar</summary>
+      <summary>### 📝 Notlar</summary>
         Metni buraya koyacaksın.
       </details>
   </details>
