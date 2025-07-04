@@ -31,100 +31,82 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 <details>
   <summary>📋 Sprintler</summary>
 
-  ## 🚀 Sprint 1
-
-  ---
-
   <details>
-    <summary>Sprint 1 – Uygulama Ekran Görüntüleri</summary>
+    <summary>🚀 Sprint 1</summary>
+
+    ### 📱 Uygulama Ekran Görüntüleri  
     Metni buraya koyacaksın.
+
+    ---
+
+    ### 📊 Tablo Güncellemeleri Ekran Görüntüleri  
+    Metni buraya koyacaksın.
+
+    ---
+
+    ### 📈 Grafikler ve Tablolar  
+    Metni buraya koyacaksın.
+
+    ---
+
+    ### 📝 Notlar  
+    Metni buraya koyacaksın.
+
   </details>
 
   ---
 
   <details>
-    <summary>Sprint 1 – Tablo Güncellemeleri Ekran Görüntüleri</summary>
+    <summary>🚀 Sprint 2</summary>
+
+    ### 📱 Uygulama Ekran Görüntüleri  
     Metni buraya koyacaksın.
+
+    ---
+
+    ### 📊 Tablo Güncellemeleri Ekran Görüntüleri  
+    Metni buraya koyacaksın.
+
+    ---
+
+    ### 📈 Grafikler ve Tablolar  
+    Metni buraya koyacaksın.
+
+    ---
+
+    ### 📝 Notlar  
+    Metni buraya koyacaksın.
+
   </details>
 
   ---
 
   <details>
-    <summary>Sprint 1 – Grafikler ve Tablolar</summary>
+    <summary>🚀 Sprint 3</summary>
+
+    ### 📱 Uygulama Ekran Görüntüleri  
     Metni buraya koyacaksın.
-  </details>
 
-  ---
-  
+    ---
 
-  <details>
-    <summary>Sprint 1 – Notları</summary>
+    ### 📊 Tablo Güncellemeleri Ekran Görüntüleri  
     Metni buraya koyacaksın.
-  </details>
 
-  ---
+    ---
 
-  ## 🚀 Sprint 2
-
-  ---
-
-  <details>
-    <summary>Sprint 2 – Uygulama Ekran Görüntüleri</summary>
+    ### 📈 Grafikler ve Tablolar  
     Metni buraya koyacaksın.
-  </details>
 
-  ---
+    ---
 
-  <details>
-    <summary>Sprint 2 – Tablo Güncellemeleri Ekran Görüntüleri</summary>
+    ### 📝 Notlar  
     Metni buraya koyacaksın.
-  </details>
 
-  ---
-
-  <details>
-    <summary>Sprint 2 – Grafikler ve Tablolar</summary>
-    Metni buraya koyacaksın.
-  </details>
-
-  ---
-
-  <details>
-    <summary>Sprint 2 – Notları</summary>
-    Metni buraya koyacaksın.
-  </details>
-
-  ---
-
-  ## 🚀 Sprint 3
-
-  <details>
-    <summary>Sprint 3 – Uygulama Ekran Görüntüleri</summary>
-    Metni buraya koyacaksın.
-  </details>
-
-  ---
-
-  <details>
-    <summary>Sprint 3 – Tablo Güncellemeleri Ekran Görüntüleri</summary>
-    Metni buraya koyacaksın.
-  </details>
-
-  ---
-
-  <details>
-    <summary>Sprint 3 – Grafikler ve Tablolar</summary>
-    Metni buraya koyacaksın.
-  </details>
-
-  ---
-
-  <details>
-    <summary>Sprint 3 – Notları</summary>
-    Metni buraya koyacaksın.
   </details>
 
 </details>
+
+
 
 ---
 
