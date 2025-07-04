@@ -108,21 +108,35 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
 
   - **Sprint Notes**:
-    -Proje yönetimi için Miro kullanılmasına karar verildi.
+    -Proje yönetimi için Miro kullanılmasına karar verildi. Miro teması Tuba İlhan Horuz tarafından oluşturuldu.
+    
     -Githup repo linki açılmasına karar verildi. Melih Aktaş tarafından Githup Repo oluşturuldu.
+    
     -Giriş sistemi için Email kullanılmasına karar verildi .
+    
     -Web uygulaması için Wordpress (Custom HTML5 / Custom CSS3) kullanılmasına karar verildi.
+    
     -Güvenlik için Google reCAPTCHA + WP 2FA kullanılmasına karar verildi.
+    
     -Sosyal hesaplardan giriş yapılabilmesi için Nextend Social Login kullanılmasına karar verildi.
+    
     -Yapay zeka entegrasyonu Python API + REST API bağlantısı (JWT ile güvenli) kullanılmasına karar verildi.
+    
     -Taşınabilir, bağımsız altyapı (özellikle AI modelleriyle çalışırken)  Docker kullanılmasına karar verildi.
+    
     -Meslek öneri algoritması (sınıflandırma/tavsiye motoru) için scikit-learn / XGBoost kullanılmasına karar verildi.
+    
     -Derin öğrenme ve Veri analizi ve manipülasyonları için Pandas / NumPy ve  TensorFlow / PyTorch kullanılmasına karar verildi.
+    
     -Güçlü, ilişkisel veritabanı için SQL ve PostgreSQL kullanılmasına karar verildi.
+    
 
   - **Expected point completion within Sprint**: 200 points
   - **Point Completion Logic**: `(205 points completed)` The first sprint has a target of 200 points, the second sprint 100 points, and the third sprint 200 points. A lower point target has been set for the second sprint since there is a national holiday in Turkey during this period and all team members are residing in Turkey.
-  - **Daily Scrum**: See file
+  - **Daily Scrum**:
+  -  ![WhatsApp Image 2025-07-05 at 00 47 59 (1)](https://github.com/user-attachments/assets/05fb5680-016a-405c-8e15-d902d789a901)
+  -  ![WhatsApp Image 2025-07-05 at 00 47 59](https://github.com/user-attachments/assets/a34b8416-b7d1-4d0e-885a-f298bef1555e)
+
   - **Product Backlog URL:** Click for Backlog (Trello)
   - **Sprint Review:**
     - Arda and Burak carried out a coordinated effort for the backend and frontend. We have agreed within the team to continue this way in the next sprint.
@@ -321,7 +335,7 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
   - **Expected point completion within Sprint**: 200 points
   - **Point Completion Logic**: `(745 points completed)` Since this is the final sprint, we have completed the system that was planned and started to be implemented in previous sprints, and our sprint score has reached 745 because we completed most of the important features in this sprint.
   - **Daily Scrum**: See file
-  - **Product Backlog URL:** Click for Backlog (Trello)
+  - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=59797635369
   - **Sprint Review**:
     - We have developed the Notification System that enables users to communicate with each other using onesignal and firestore technologies.
     - As mentioned, we developed the messaging system using the Stream SDK. We have also added the feature that users can share their instant locations with each other during messaging using the Google Maps and Google Maps service. (Google Maps Static API)
