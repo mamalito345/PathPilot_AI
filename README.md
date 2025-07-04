@@ -108,21 +108,18 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
 
   - **Sprint Notes**:
-    - It has been decided to use `Trello` for project management.
+    -Proje yönetimi için Miro kullanılmasına karar verildi.
+    -Githup repo linki açılmasına karar verildi. Melih Aktaş tarafından Githup Repo oluşturuldu.
+    -Giriş sistemi için Email kullanılmasına karar verildi .
+    -Web uygulaması için Wordpress (Custom HTML5 / Custom CSS3) kullanılmasına karar verildi.
+    -Güvenlik için Google reCAPTCHA + WP 2FA kullanılmasına karar verildi.
+    -Sosyal hesaplardan giriş yapılabilmesi için Nextend Social Login kullanılmasına karar verildi.
+    -Yapay zeka entegrasyonu Python API + REST API bağlantısı (JWT ile güvenli) kullanılmasına karar verildi.
+    -Taşınabilir, bağımsız altyapı (özellikle AI modelleriyle çalışırken)  Docker kullanılmasına karar verildi.
+    -Meslek öneri algoritması (sınıflandırma/tavsiye motoru) için scikit-learn / XGBoost kullanılmasına karar verildi.
+    -Derin öğrenme ve Veri analizi ve manipülasyonları için Pandas / NumPy ve  TensorFlow / PyTorch kullanılmasına karar verildi.
+    -Güçlü, ilişkisel veritabanı için SQL ve PostgreSQL kullanılmasına karar verildi.
 
-    - It has been decided to use `Figma` for UI designs.
-
-    - It has been decided to use `Riverpod` for state management.
-
-    - The `MVVM` structure has been set up and it will be proceeded on this basis.
-
-    - It has been decided to use `Firebase` for the backend, and the `GetX` system for the page routing system.
-
-    - It was decided to use `email login` for the login system.
-
-    - It was decided to perform `identity verification` following the login system.
-
-    - It has been decided to use `Hive` as the local database.
   - **Expected point completion within Sprint**: 200 points
   - **Point Completion Logic**: `(205 points completed)` The first sprint has a target of 200 points, the second sprint 100 points, and the third sprint 200 points. A lower point target has been set for the second sprint since there is a national holiday in Turkey during this period and all team members are residing in Turkey.
   - **Daily Scrum**: See file
