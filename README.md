@@ -26,10 +26,10 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
  
 ---
-## 📚 Sprintler
+# 📚 Sprintler
 
 <details>
-  <summary>🚀 Sprint 1</summary>
+  <summary>##🚀 Sprint 1</summary>
 
   <details>
     <summary>📱 Uygulama Ekran Görüntüleri</summary>
@@ -49,7 +49,7 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
 </details>
 <details>
-  <summary>🚀 Sprint 1</summary>
+  <summary>##🚀 Sprint 1</summary>
 
   <details>
     <summary>📱 Uygulama Ekran Görüntüleri</summary>
@@ -69,7 +69,7 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
 </details>
 <details>
-  <summary>🚀 Sprint 1</summary>
+  <summary>##🚀 Sprint 1</summary>
 
   <details>
     <summary>📱 Uygulama Ekran Görüntüleri</summary>
