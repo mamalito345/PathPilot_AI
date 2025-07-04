@@ -6,7 +6,7 @@
 | Foto | Name | Title | Socials |
 |------|------|-------|---------|
 | 👩‍💼 | Tuba İLHAN HORUZ | Scrum Master | www.linkedin.com/in/tuba-ilhan-horuz|
-| 👩‍💼 | Duygu Başak ACAR | Product Owner | - |
+| 👩‍💼 | Duygu Başak ACAR | Developer | - |
 | 👨‍💻 | Melih Taha BEKTAŞ | Developer | - |
 | 👨‍💻 | Saim Berk AKÇEŞME| Developer | - |
 | 👩‍💻 | Sude Nur KÖMÜR | Developer | - |
@@ -149,7 +149,7 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
     - Overall, we believe we had a good sprint process. We experienced a sprint process close to what we planned.
 
-  - **Sprint Review Participants:** `Tuba İlhan Horuz`, `Duygu Başak Acar`, `Sude Nur Kömür`, `Melih Talha Bektaş', `Saim Berk Akçeşme`
+  - **Sprint Review Participants:** `Tuba İlhan Horuz`, `Duygu Başak Acar`, `Sude Nur Kömür`, `Melih Talha Bektaş`, `Saim Berk Akçeşme`
   - **Sprint Retrospective:**
   - 
     - In the second sprint, it was decided in the team meeting that only Arda and Burak would write code for mobile.
