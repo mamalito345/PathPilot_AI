@@ -25,88 +25,83 @@ Career Path, genç bireylerin gelecekteki mesleklerini seçerken yalnızca kendi
 Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçimi, bir değer seti ve bir etki alanı seçiyor. Geleceğin mesleklerini şekillendiren en önemli faktörlerin başında çevresel krizler, dijital dönüşüm ve iş gücündeki yapısal değişim geliyor. Career Path olarak biz de bu gerçekliğin farkında olarak hareket ediyoruz.
 
 
+<!-- Sadece bir seviye iç içe olacak şekilde yeniden yapılandırıldı -->
+
 <details>
   <summary>📋 Sprintler</summary>
 
-  <!-- =============== SPRINT 1 =============== -->
+  ## 🚀 Sprint 1
+
   <details>
-    <summary>🚀 Sprint 1</summary>
-
-    <details>
-      <summary>Sprint 1 – Uygulama Ekran Görüntüleri</summary>
-      Metni buraya koyacaksın.
-    </details>
-
-    <details>
-      <summary>Sprint 1 – Tablo Güncellemeleri Ekran Görüntüleri</summary>
-      Metni buraya koyacaksın.
-    </details>
-
-    <details>
-      <summary>Sprint 1 – Grafikler ve Tablolar</summary>
-      Metni buraya koyacaksın.
-    </details>
-
-    <details>
-      <summary>Sprint 1 – Notları</summary>
-      Metni buraya koyacaksın.
-    </details>
-
+    <summary>Sprint 1 – Uygulama Ekran Görüntüleri</summary>
+    Metni buraya koyacaksın.
   </details>
 
-  <!-- =============== SPRINT 2 =============== -->
   <details>
-    <summary>🚀 Sprint 2</summary>
-
-    <details>
-      <summary>Sprint 2 – Uygulama Ekran Görüntüleri</summary>
-      Metni buraya koyacaksın.
-    </details>
-
-    <details>
-      <summary>Sprint 2 – Tablo Güncellemeleri Ekran Görüntüleri</summary>
-      Metni buraya koyacaksın.
-    </details>
-
-    <details>
-      <summary>Sprint 2 – Grafikler ve Tablolar</summary>
-      Metni buraya koyacaksın.
-    </details>
-
-    <details>
-      <summary>Sprint 2 – Notları</summary>
-      Metni buraya koyacaksın.
-    </details>
-
+    <summary>Sprint 1 – Tablo Güncellemeleri Ekran Görüntüleri</summary>
+    Metni buraya koyacaksın.
   </details>
 
-  <!-- =============== SPRINT 3 =============== -->
   <details>
-    <summary>🚀 Sprint 3</summary>
+    <summary>Sprint 1 – Grafikler ve Tablolar</summary>
+    Metni buraya koyacaksın.
+  </details>
 
-    <details>
-      <summary>Sprint 3 – Uygulama Ekran Görüntüleri</summary>
-      Metni buraya koyacaksın.
-    </details>
+  <details>
+    <summary>Sprint 1 – Notları</summary>
+    Metni buraya koyacaksın.
+  </details>
 
-    <details>
-      <summary>Sprint 3 – Tablo Güncellemeleri Ekran Görüntüleri</summary>
-      Metni buraya koyacaksın.
-    </details>
+  ---
 
-    <details>
-      <summary>Sprint 3 – Grafikler ve Tablolar</summary>
-      Metni buraya koyacaksın.
-    </details>
+  ## 🚀 Sprint 2
 
-    <details>
-      <summary>Sprint 3 – Notları</summary>
-      Metni buraya koyacaksın.
-    </details>
+  <details>
+    <summary>Sprint 2 – Uygulama Ekran Görüntüleri</summary>
+    Metni buraya koyacaksın.
+  </details>
 
+  <details>
+    <summary>Sprint 2 – Tablo Güncellemeleri Ekran Görüntüleri</summary>
+    Metni buraya koyacaksın.
+  </details>
+
+  <details>
+    <summary>Sprint 2 – Grafikler ve Tablolar</summary>
+    Metni buraya koyacaksın.
+  </details>
+
+  <details>
+    <summary>Sprint 2 – Notları</summary>
+    Metni buraya koyacaksın.
+  </details>
+
+  ---
+
+  ## 🚀 Sprint 3
+
+  <details>
+    <summary>Sprint 3 – Uygulama Ekran Görüntüleri</summary>
+    Metni buraya koyacaksın.
+  </details>
+
+  <details>
+    <summary>Sprint 3 – Tablo Güncellemeleri Ekran Görüntüleri</summary>
+    Metni buraya koyacaksın.
+  </details>
+
+  <details>
+    <summary>Sprint 3 – Grafikler ve Tablolar</summary>
+    Metni buraya koyacaksın.
+  </details>
+
+  <details>
+    <summary>Sprint 3 – Notları</summary>
+    Metni buraya koyacaksın.
   </details>
 
 </details>
+
 
 
 
