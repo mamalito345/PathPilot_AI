@@ -24,17 +24,21 @@ Career Path, genç bireylerin gelecekteki mesleklerini seçerken yalnızca kendi
 
 Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçimi, bir değer seti ve bir etki alanı seçiyor. Geleceğin mesleklerini şekillendiren en önemli faktörlerin başında çevresel krizler, dijital dönüşüm ve iş gücündeki yapısal değişim geliyor. Career Path olarak biz de bu gerçekliğin farkında olarak hareket ediyoruz.
 
+
 **Veriye Dayalı ve Duyarlı Yönlendirme**
 
 Career Path, bireyleri yalnızca veri temelli bir yaklaşımla yönlendirmekle kalmaz; aynı zamanda aşırı üretim ve tüketim döngüsünün oluşturduğu iş gücü etkilerini fark ettirmeyi amaçlar. Dijital ve yeşil dönüşümle ortaya çıkan yeni meslek alanlarına dikkat çekerken, kariyer kararlarının uzun vadeli ekosistem etkilerine dair de farkındalık yaratır.
+
 
 **Etki Odaklı Bir Yaklaşım**
 
 Platform olarak amacımız sadece “hangi mesleği seçmeliyim?” sorusuna cevap vermek değil, bireylerin aynı zamanda “hangi etkiyi bırakmak istiyorum?” sorusunu da kendilerine sormalarını sağlamaktır. Çünkü bizce geleceğin iş gücü; yalnızca verimli değil, aynı zamanda sorumlu ve fark yaratan bireylerden oluşmalıdır.
 
+
 **Sürdürülebilir Gelecek İçin Hedefler**
 
 Career Path’in temel hedeflerinden biri, dijital eşitsizlikleri azaltmak, iklim duyarlılığı olan kariyerleri teşvik etmek ve bireylere anlamlı, verimli ve sürdürülebilir meslek yolları sunmaktır. Bu hedefler doğrultusunda sağlam bir teknolojik altyapı, güvenilir bir veri temeli ve öğrencinin gelişimini önceleyen bir öğrenme mühendisliği yaklaşımı ile hareket ediyoruz.
+
 
 **Geleceğin Mesleklerini Keşfetmek**
 
@@ -95,6 +99,7 @@ Veriye-Dayali-Kariyer-Kesfi/
 ├── models/                 # AI model dosyaları (opsiyonel)
 ├── src/                    # Python kodları (analiz, eşleştirme)
 ├── screenshots/            # Uygulama ekran görüntüleri
+├── wordpress/              # Uygulama web sitesi
 ├── README.md               # Proje tanıtımı (bu dosya)
 ```
 
@@ -105,10 +110,10 @@ Veriye-Dayali-Kariyer-Kesfi/
 Pull request’lere ve issue açmanıza açığız. Katkı sunmak için:
 
 ```bash
-1. Forkla
-2. Yeni bir branch oluştur: git checkout -b yeni-ozellik
-3. Değişikliklerini yap ve commit et
-4. Pull request gönder 🎉
+1. Hemen uygulamayı indir!
+2. Testi çöz!
+3. Sonuçlarını sosyal mediada paylaş!
+4. Bizi etiketlemeyi unutma!!! 😊
 ```
 
 ---
