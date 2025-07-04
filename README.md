@@ -16,30 +16,25 @@
 Bu proje, lise son sınıf öğrencilerinin **büyük veri**, **öğrenme mühendisliği** ve **yapay zeka** desteği ile meslek seçim süreçlerini bilinçli şekilde gerçekleştirmelerine olanak tanıyan bir kariyer keşif platformudur.
 
 ---
-🌍 Career Path Nedir?
+**🌍 Career Path Nedir?**
 Career Path, genç bireylerin gelecekteki mesleklerini seçerken yalnızca kendi ilgi ve yeteneklerine değil, aynı zamanda toplumsal ihtiyaçlara, ekonomik sürdürülebilirliğe ve çevresel etkilere de duyarlı kararlar almalarını destekleyen bir platformdur.
 
-Bugünün gençleri, sadece bir meslek değil; bir yaşam biçimi, bir değer seti ve bir etki alanı seçiyor. Geleceğin mesleklerini şekillendiren en önemli faktörlerin başında çevresel krizler, dijital dönüşüm ve iş gücündeki yapısal değişim geliyor. Biz de bu gerçekliğin farkındayız.
+**Yeni Nesil Kariyer Anlayışı**
+Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçimi, bir değer seti ve bir etki alanı seçiyor. Geleceğin mesleklerini şekillendiren en önemli faktörlerin başında çevresel krizler, dijital dönüşüm ve iş gücündeki yapısal değişim geliyor. Career Path olarak biz de bu gerçekliğin farkında olarak hareket ediyoruz.
 
-Career Path, bireyleri veri temelli bir yaklaşımla yönlendirirken, aynı zamanda:
+**Veriye Dayalı ve Duyarlı Yönlendirme**
+Career Path, bireyleri yalnızca veri temelli bir yaklaşımla yönlendirmekle kalmaz; aynı zamanda aşırı üretim ve tüketim döngüsünün oluşturduğu iş gücü etkilerini fark ettirmeyi amaçlar. Dijital ve yeşil dönüşümle ortaya çıkan yeni meslek alanlarına dikkat çekerken, kariyer kararlarının uzun vadeli ekosistem etkilerine dair de farkındalık yaratır.
 
-Aşırı üretim ve tüketim döngüsünün oluşturduğu iş gücü etkilerini fark ettirir,
+**Etki Odaklı Bir Yaklaşım**
+Platform olarak amacımız sadece “hangi mesleği seçmeliyim?” sorusuna cevap vermek değil, bireylerin aynı zamanda “hangi etkiyi bırakmak istiyorum?” sorusunu da kendilerine sormalarını sağlamaktır. Çünkü bizce geleceğin iş gücü; yalnızca verimli değil, aynı zamanda sorumlu ve fark yaratan bireylerden oluşmalıdır.
 
-Dijital ve yeşil dönüşümle ortaya çıkan yeni meslek alanlarına dikkat çeker,
+**Sürdürülebilir Gelecek İçin Hedefler**
+Career Path’in temel hedeflerinden biri, dijital eşitsizlikleri azaltmak, iklim duyarlılığı olan kariyerleri teşvik etmek ve bireylere anlamlı, verimli ve sürdürülebilir meslek yolları sunmaktır. Bu hedefler doğrultusunda sağlam bir teknolojik altyapı, güvenilir bir veri temeli ve öğrencinin gelişimini önceleyen bir öğrenme mühendisliği yaklaşımı ile hareket ediyoruz.
 
-Kariyer kararlarının uzun vadeli ekosistem etkilerine dair farkındalık yaratır.
+**Geleceğin Mesleklerini Keşfetmek**
+Tüm bu çabalarımız, bireylerin gelecekte geçerliliğini koruyacak meslekleri keşfetmelerini sağlamak içindir. Böylece her birey, hem kendisi hem de dünya için daha anlamlı ve sürdürülebilir bir kariyer yolculuğuna çıkabilir.
 
-Amacımız yalnızca “hangi mesleği seçmeliyim?” sorusuna cevap vermek değil, aynı zamanda “hangi etkiyi bırakmak istiyorum?” sorusunu da sordurmak.
-
-Geleceğin iş gücü; sadece verimli değil, aynı zamanda sorumlu ve fark yaratan bireylerden oluşmalı. Bu nedenle, Career Path’in temel hedeflerinden biri;
-✅ Dijital eşitsizlikleri azaltmak,
-✅ İklim duyarlılığı olan kariyerler teşvik etmek,
-✅ Bireylere anlamlı, verimli ve sürdürülebilir meslek yolları sunmaktır.
-
-Bu yolda sağlam bir teknolojik altyapı, güvenilir bir veri temeli ve öğrencinin gelişimini önceleyen bir öğrenme mühendisliği yaklaşımı ile hareket ediyoruz.
-
-
-**gelecekte geçerliliğini koruyacak meslekleri** keşfetmelerini sağlamak amaçlanmıştır.
+**gelecekte geçerliliğini koruyacak meslekleri** keşfetmelerini sağlamak amaçlanmıştır.**
 
 ---
 
