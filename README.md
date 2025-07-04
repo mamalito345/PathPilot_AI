@@ -1,5 +1,5 @@
 # CARRER PATH
-![ChatGPT Image 4 Tem 2025 21_54_54](https://github.com/user-attachments/assets/ecd003cd-5ce1-47dd-8b25-a8b42be8d227)
+![carer path](https://github.com/user-attachments/assets/cdf0a44b-c1fc-442d-8143-c9f2375d5b15)
 
 ## 👥 Takım Üyeleri
 
@@ -137,7 +137,7 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
   -  ![WhatsApp Image 2025-07-05 at 00 47 59 (1)](https://github.com/user-attachments/assets/05fb5680-016a-405c-8e15-d902d789a901)
   -  ![WhatsApp Image 2025-07-05 at 00 47 59](https://github.com/user-attachments/assets/a34b8416-b7d1-4d0e-885a-f298bef1555e)
 
-  - **Product Backlog URL:** Click for Backlog (Trello)
+  - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=476687804339 (Miro)
   - **Sprint Review:**
     - Arda and Burak carried out a coordinated effort for the backend and frontend. We have agreed within the team to continue this way in the next sprint.
 
@@ -149,7 +149,7 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
     - Overall, we believe we had a good sprint process. We experienced a sprint process close to what we planned.
 
-  - **Sprint Review Participants:** `Burak Taha Cevheroğlu`, `Arda Demirel`, `Dila Hazal Bilgin`, `Merve Ağaçayak`, `Onur Konuk`
+  - **Sprint Review Participants:** `Tuba İlhan Horuz`, `Duygu Başak Acar`, `Sude Nur Kömür`, `Melih Talha Bektaş, `Saim Berk Akçeşme`
   - **Sprint Retrospective:**
     - In the second sprint, it was decided in the team meeting that only Arda and Burak would write code for mobile.
 
