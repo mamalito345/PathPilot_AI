@@ -136,7 +136,7 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
     -Güçlü, ilişkisel veritabanı için SQL ve PostgreSQL kullanılmasına karar verildi.
     
 
-  - **Tahmin Edilen Tamamlanacak Puan**: 200 points
+  - **Tahmin Edilen Tamamlanacak Puan**: 200 puan.
   - **Tahmin Mantığı**: 
   - Sprint 1 Sonu Tahmin Mantığı
 Sprint 1'de tamamlanan işler ve bu işlere atanan puanlar, Google Proje Yönetimi programı eğitimine uygun olarak, her bir görevin karmaşıklığı, harcanan efor ve proje için taşıdığı önem göz önüne alınarak belirlenmiştir. Toplam 200 puan hedefine ulaşmak için aşağıdaki görevler ve puanlamalar yapılmıştır:
