@@ -151,30 +151,38 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
   - **Sprint Review Participants:** `Tuba İlhan Horuz`, `Duygu Başak Acar`, `Sude Nur Kömür`, `Melih Talha Bektaş`, `Saim Berk Akçeşme`
   - **Sprint Retrospective:**
-  - 
-    - In the second sprint, it was decided in the team meeting that only Arda and Burak would write code for mobile.
+    
+    - İkinci sprintte ekip toplantısında web için sadece Melih ve Sude Nur'un kod yazmasına karar verildi.
+    
+    - İkinci sprintte Docker ortamının hazırlanması ve konteyner orkestrasyonu yapılmasına karar verdik.
+    
+    - İkinci sprintte PostgreSQL veritabanının kurulumu, yedekleme & rol ayarlarını yapacağız.
+   
+    - İkinci sprintte WordPress’teki dinamik bölümler için özel JavaScript entegrasyonlarını yapacağız.
+   
+    - İkinci sprintte Backend Python ortamı (FastAPI) + bağımlılık yönetimi yapılmasıa karar verildi.
+   
+    - İkinci sprintte REST API köprüsü ve JWT tabanlı güvenli bağlantı kurulmasına karar verildi 
+   
+    - Veri analizi için ikinci sprintte ilgili kütüphaneleri (Pandas & NumPy) kurulumuna karar verildi.
+    
+    - İkinci sprintte scikit-learn & XGBoost kurulumu + örnek meslek öneri modeli  geliştirilmesine karar verildi.
+    
+    - ikinci sprintte derin öğrenme ortamı oluşturmak için TensorFlow / PyTorch kullanılmasına karar verildi.
 
-    - In the second sprint, we decided to write our own API (for location information).
+    - İkinci sprintte Holland Test NLP skorlayıcı entegrasyonu yapılmasına karar verildi.
+    
+    - İkinci sprintte WP User Manager / Ultimate Member eklentisi kurulumuna karar verildi.
 
-    - We had to postpone the logo design to the second sprint. We will continue with the design.
+    - İkinci sprintte Google reCAPTCHA + WP 2FA güvenlik eklentileri eklenmesine karar verildi.
 
-    - We will continue to develop the local database system (Hive).
+    - İkinci sprintte uygulama girişleri için Nextend Social Login sosyal giriş ayarı yapılmasına karar verildi.
 
-    - As Burak and Arda will continue more with software related tasks, much of the project management has been delegated to the remaining team members.
+    - İkinci sprintte kişiye özel içerik için ACF + Custom Post Type yapılandırması yapılmasına karar verildi.
 
-    - In the second sprint, we will start writing a website for the zaten.app domain we bought for brand recognition. This task has been handed over to Onur.
+    -  İkinci sprint sonunda uygulamanın en az %85'inin bitmesine karar verildi.
 
-    - It was decided to establish a review system before the product goes live during the second sprint.
 
-    - For brand recognition and marketing purposes, it was decided to open an Instagram account during the second sprint.
-
-    - In addition to email authentication, it was decided to add the Google auth system in the second sprint.
-
-    - It was decided to add test AdMobs in the second sprint.
-
-    - We decided to start localization and the first languages will be English and Turkish.
-
-    - It was decided to add a user-to-user SDK with the Stream Chat SDK in the second sprint.
 
 
   - **Other Notes**:
