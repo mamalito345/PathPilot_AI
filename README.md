@@ -5,7 +5,7 @@
 
 | Foto | Name | Title | Socials |
 |------|------|-------|---------|
-| 👩‍💼 | Tuba İLHAN HORUZ | Scrum Master | www.linkedin.com/in/tuba-ilhan-horuz|
+| 👩‍💼 | Tuba İLHAN HORUZ https://github.com/ttuubbaa | Scrum Master | www.linkedin.com/in/tuba-ilhan-horuz|
 | 👩‍💼 | Duygu Başak ACAR | Developer | - |
 | 👨‍💻 | Melih Taha BEKTAŞ | Developer | - |
 | 👨‍💻 | Saim Berk AKÇEŞME| Developer | - |
@@ -93,9 +93,11 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
   <details>
     <summary><h3>Sprint 1 - Sprint Board Update Screenshots</h3></summary>
  
-   ![SPRİNT 1 DAY 1](https://github.com/user-attachments/assets/f055c997-fa13-4ea5-9a26-7d239a8cdf67)
+  | ![SPRİNT 1 DAY 1](https://github.com/user-attachments/assets/f055c997-fa13-4ea5-9a26-7d239a8cdf67)) |![SPRİNT 1 DAY ](https://github.com/user-attachments/assets/dbb40f54-54ed-4db6-81fc-6a84d6a06306)|
+|------------------------|------------------------|
+|MİRO 1             | MİRO 2   
 
-   ![SPRİNT 1 DAY ](https://github.com/user-attachments/assets/dbb40f54-54ed-4db6-81fc-6a84d6a06306)
+   
 
    <img src="bootcampFiles/sprintOne/boardupdate/10.png" style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprintOne/boardupdate/11.png" style="max-width: 100%; height: auto;">
@@ -167,9 +169,10 @@ Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik 
 
   - **Günlük Scrum**:
   - Her gün Google meet üzerinden toplantılar yaptık. Whatsapp grubumuzdan aktif olarak sürekli iletişim kurduk. Oluşturduğumuz dökümanlar ve çalışma dosyaları için grubumuza ait bir Whatsapp topluluğu oluşturduk ve dosyalarımızı orada yedeklediklemeye ve biriktirmeye başladık.
-  -  ![WhatsApp Image 2025-07-05 at 00 47 59 (1)](https://github.com/user-attachments/assets/05fb5680-016a-405c-8e15-d902d789a901)
-  -  ![WhatsApp Image 2025-07-05 at 00 47 59](https://github.com/user-attachments/assets/a34b8416-b7d1-4d0e-885a-f298bef1555e)
-
+    
+| ![WhatsApp Image 2025-07-05 at 00 47 59 (1)](https://github.com/user-attachments/assets/05fb5680-016a-405c-8e15-d902d789a901) |![WhatsApp Image 2025-07-05 at 00 47 59](https://github.com/user-attachments/assets/a34b8416-b7d1-4d0e-885a-f298bef1555e)|
+|------------------------|------------------------|
+| wp foto 1             | wp foto 2  
   - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=476687804339 (Miro)
   - **Sprint Review:**
     - Proje için Miro kurulumu yapıldı ve takım görev panosunu oluşturuldu.
@@ -266,7 +269,7 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
 
   <details>
     <summary><h3>Sprint 2 - Sprint Board Update Screenshots</h3></summary>
-    <img src="![SPRİNT 1 DAY 1](https://github.com/user-attachments/assets/719c9c69-1d77-47b6-853e-52e8e0ecec42)
+   <img src="![SPRİNT 1 DAY 1](https://github.com/user-attachments/assets/719c9c69-1d77-47b6-853e-52e8e0ecec42)
   " style="max-width: 100%; height: auto;">
     <img src="![SPRİNT 1 DAY ](https://github.com/user-attachments/assets/278124d3-1c07-4171-9f22-2ab6f22836de)
  " style="max-width: 100%; height: auto;">
@@ -451,13 +454,6 @@ Tüm bu çabalarımız, bireylerin gelecekte geçerliliğini koruyacak meslekler
 | Figma / Canva | Öğrenci kariyer plan sunumları |
 | Streamlit / Flask (isteğe bağlı) | AI destekli öneri sistemi prototipi |
 
----
-
-## 📸 Sprint 1 - App Screenshots
-
-| Ana Sayfa | Meslek Eşleştirme | Meslek Detayı |
-|----------|-------------------|----------------|
-| ![home](screenshots/home.png) | ![match](screenshots/match.png) | ![details](screenshots/detail.png) |
 
 ---
 
