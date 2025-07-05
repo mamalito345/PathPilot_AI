@@ -152,7 +152,7 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
   - **Sprint Review Participants:** `Tuba İlhan Horuz`, `Duygu Başak Acar`, `Sude Nur Kömür`, `Melih Talha Bektaş`, `Saim Berk Akçeşme`
   - **Sprint Retrospective:**
     
-    - İkinci sprintte ekip toplantısında web için sadece Melih ve Sude Nur'un kod yazmasına karar verildi.
+    - İkinci sprintte ekip toplantısında web sitesi için sadece Melih ve Sude Nur'un kod yazmasına karar verildi.
     
     - İkinci sprintte Docker ortamının hazırlanması ve konteyner orkestrasyonu yapılmasına karar verdik.
     
