@@ -6,10 +6,10 @@
 | Foto | Name | Title | Socials |
 |------|------|-------|---------|
 | 👩‍💼 |[ Tuba İLHAN HORUZ](https://github.com/ttuubbaa )| Scrum Master | www.linkedin.com/in/tuba-ilhan-horuz|
-| 👩‍💼 | Duygu Başak ACAR | Developer | - |
-| 👨‍💻 | Melih Taha BEKTAŞ | Developer | - |
-| 👨‍💻 | Saim Berk AKÇEŞME| Developer | - |
-| 👩‍💻 | Sude Nur KÖMÜR | Developer | - |
+| 👩‍💼 |[Duygu Başak ACAR]() | Developer | - |
+| 👨‍💻 |[Melih Taha BEKTAŞ]()| Developer | - |
+| 👨‍💻 |[Saim Berk AKÇEŞME]()| Developer | - |
+| 👩‍💻 |[Sude Nur KÖMÜR]() | Developer | - |
 | 🚀 | CARRER PATH | Startup | - |
 # Veriye Dayalı Kariyer Keşfi – Geleceğini Büyük Verilerle Tasarla 🎓📊
 
