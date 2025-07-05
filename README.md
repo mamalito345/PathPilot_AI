@@ -6,11 +6,11 @@
 | Foto | Name | Title | Socials |
 |------|------|-------|---------|
 | 👩‍💼 |[ Tuba İLHAN HORUZ](https://github.com/ttuubbaa )| Scrum Master | www.linkedin.com/in/tuba-ilhan-horuz|
-| 👩‍💼 |[Duygu Başak ACAR]() | Developer | - |
-| 👨‍💻 |[Melih Taha BEKTAŞ]()| Developer | - |
-| 👨‍💻 |[Saim Berk AKÇEŞME]()| Developer | - |
+| 👩‍💼 |[Duygu Başak ACAR](https://github.com/DuyguAcar) | Developer | www.linkedin.com/in/duygu-başak-acar-97a4a433b |
+| 👨‍💻 |[Melih Taha BEKTAŞ]()| Developer | www.linkedin.com/in/melih-talha-bekta%C5%9F-6992a424a/ |
+| 👨‍💻 |[Saim Berk AKÇEŞME]()| Developer | https://www.linkedin.com/in/saimberkak%C3%A7e%C5%9Fme/|
 | 👩‍💻 |[Sude Nur KÖMÜR]() | Developer | - |
-| 🚀 | CARRER PATH | Startup | - |
+
 # Veriye Dayalı Kariyer Keşfi – Geleceğini Büyük Verilerle Tasarla 🎓📊
 
 Bu proje, lise son sınıf öğrencilerinin **büyük veri**, **öğrenme mühendisliği** ve **yapay zeka** desteği ile meslek seçim süreçlerini bilinçli şekilde gerçekleştirmelerine olanak tanıyan bir kariyer keşif platformudur.
@@ -254,13 +254,20 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
     <summary><h3>Sprint 2 - Burndown Chart</h3></summary>
     
   </details>
-
+    
   - **Sprint Notes**:
+ 
+  - **Expected point completion within Sprint**
+  - **Point Completion Logic**:
+  - **Daily Scrum**: 
+  - **Product Backlog URL:** 
+  - **Sprint Review**:
   - **Sprint Review Participants:** 
   - **Sprint Retrospective:**
   - **Other Notes**:
-    <details>
+  <details>
     <summary><h3>Additional Files</h3></summary>
+
    
   </details>
 
