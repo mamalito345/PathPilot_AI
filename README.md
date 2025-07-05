@@ -166,6 +166,7 @@ Hedef Puan:200 Puan.
 Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik görevlerin ağırlığını yansıtmaktadır.
 
   - **Günlük Scrum**:
+  - Her gün Google meet üzerinden toplantılar yaptık. Whatsapp grubumuzdan aktif olarak sürekli iletişim kurduk. Oluşturduğumuz dökümanlar ve çalışma dosyaları için grubumuza ait bir Whatsapp topluluğu oluşturduk ve dosyalarımızı orada yedeklediklemeye ve biriktirmeye başladık.
   -  ![WhatsApp Image 2025-07-05 at 00 47 59 (1)](https://github.com/user-attachments/assets/05fb5680-016a-405c-8e15-d902d789a901)
   -  ![WhatsApp Image 2025-07-05 at 00 47 59](https://github.com/user-attachments/assets/a34b8416-b7d1-4d0e-885a-f298bef1555e)
 
@@ -178,7 +179,7 @@ Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik 
     - Tuba İlhan Horuz Logosu ve sloganı oluşturdu.
     - Melih Talha Aktaş tarafından WordPress kurulumunu ve tema seçimi yapıldı.
 
-Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımıza yakın bir sprint süreci yaşadık. Takımımız sonradan kurulan bir takım olduğu için bir haftada tüm planlamamızı yapabilmek için her gün meet üzerinden toplantılar yaptık. whatsaap grubumuzdan aktif olarak sürekli iletişim kurduk. oluşturduğumuz dökümanlar ve çalışma dosyaları için grubumuza ait bir Wp topluluğu oluşturduk ve dosyalarımızı orada yedeklediklemeye ve biriktirmeye başladık.
+Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımız gibi bir sprint süreci yaşadık. Takımımız sonradan kurulan bir takım olduğu için bir haftada tüm planlamamızı yapabilmek için her gün Google meet üzerinden toplantılar yaptık. Whatsapp grubumuzdan aktif olarak sürekli iletişim kurduk. Oluşturduğumuz dökümanlar ve çalışma dosyaları için grubumuza ait bir Whatsapp topluluğu oluşturduk ve dosyalarımızı orada yedeklediklemeye ve biriktirmeye başladık.
 
   - **Sprint Review Participants:** `Tuba İlhan Horuz`, `Duygu Başak Acar`, `Sude Nur Kömür`, `Melih Talha Bektaş`, `Saim Berk Akçeşme`
   - **Sprint Retrospective:**
@@ -213,7 +214,7 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
 
     - İkinci sprintte kişiye özel içerik için ACF + Custom Post Type yapılandırması yapılmasına karar verildi.
 
-    -  İkinci sprint sonunda uygulamanın en az %85'inin bitmesine karar verildi.
+    - İkinci sprint sonunda uygulamanın en az %85'inin bitmesine karar verildi.
 
 
 
