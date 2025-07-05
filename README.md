@@ -13,11 +13,11 @@
 
 | Foto | Name | Title | Socials |
 |------|------|-------|---------|
-| 👩‍💼 | [Tuba İLHAN HORUZ](https://github.com/ttuubbaa) | Scrum Master | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/tuba-ilhan-horuz) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/ttuubbaa) |
-| 👩‍💼 | [Duygu Başak ACAR](https://github.com/DuyguAcar) | Developer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/duygu-başak-acar-97a4a433b) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/DuyguAcar) |
-| 👨‍💻 | [Melih Taha BEKTAŞ](https://github.com/) | Developer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/melih-talha-bekta%C5%9F-6992a424a/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/) |
-| 👨‍💻 | [Saim Berk AKÇEŞME](https://github.com/) | Developer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/saimberkak%C3%A7e%C5%9Fme/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/) |
-| 👩‍💻 | [Sude Nur KÖMÜR](https://github.com/) | Developer | - |
+| 👩‍💼 | [Tuba İLHAN HORUZ] | Scrum Master | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/tuba-ilhan-horuz) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/ttuubbaa) |
+| 👩‍💼 | [Duygu Başak ACAR] | Developer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/duygu-başak-acar-97a4a433b) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/DuyguAcar) |
+| 👨‍💻 | [Melih Taha BEKTAŞ] | Developer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/melih-talha-bekta%C5%9F-6992a424a/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/mamalito345)|
+| 👨‍💻 | [Saim Berk AKÇEŞME] | Developer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/saimberkak%C3%A7e%C5%9Fme/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)] |
+| 👩‍💻 | [Sude Nur KÖMÜR] | Developer |  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)] [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)] |
 
 
 # Veriye Dayalı Kariyer Keşfi – Geleceğini Büyük Verilerle Tasarla 🎓📊
