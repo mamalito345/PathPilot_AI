@@ -139,7 +139,14 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
   - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=476687804339 (Miro)
   - **Sprint Review:**
-    - DUYGU BURAYA YAZACAKSIN 
+    - Proje için Miro kurulumu yapıldı ve takım görev panosunu oluşturuldu.
+    - Proje dosyasının ön hazırlığını yaptık ve proje üzerinde güncellemeler gerçekleştirdik.
+    - Uygulama adı konusunda karar vermekte zorlandık. 'PATHPilotAİ' ve 'CAREERPATH' arasında çok kararsız kaldık ve takım adını  'PATHPilotAİ' proje ismini ise 'CAREERPATH' olarak seçtik ve markalaşmaya doğru bir adım daha attık.
+    - Renk paletine karar verememiş ve henüz logoyu tamamlamamıştık.
+    - Tuba İlhan Horuz Logosu ve sloganı oluşturdu.
+    - Melih Talha Aktaş tarafından WordPress kurulumunu ve tema seçimi yapıldı.
+
+Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımıza yakın bir sprint süreci yaşadık. Takımımız sonradan kurulan bir takım olduğu için bir haftada tüm planlamamızı yapabilmek için her gün meet üzerinden toplantılar yaptık. whatsaap grubumuzdan aktif olarak sürekli iletişim kurduk. oluşturduğumuz dökümanlar ve çalışma dosyaları için grubumuza ait bir Wp topluluğu oluşturduk ve dosyalarımızı orada yedeklediklemeye ve biriktirmeye başladık.
 
   - **Sprint Review Participants:** `Tuba İlhan Horuz`, `Duygu Başak Acar`, `Sude Nur Kömür`, `Melih Talha Bektaş`, `Saim Berk Akçeşme`
   - **Sprint Retrospective:**
