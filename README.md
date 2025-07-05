@@ -107,7 +107,7 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
   </details>
 
 
-  - **Sprint Notes**:
+  - **Sprint Notları**:
     -Proje yönetimi için Miro kullanılmasına karar verildi. Miro teması Tuba İlhan Horuz tarafından oluşturuldu.
     
     -Githup repo linki açılmasına karar verildi. Melih Aktaş tarafından Githup Repo oluşturuldu.
@@ -131,9 +131,9 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
     -Güçlü, ilişkisel veritabanı için SQL ve PostgreSQL kullanılmasına karar verildi.
     
 
-  - **Expected point completion within Sprint**: 200 points
-  - **Point Completion Logic**: `(205 points completed)` The first sprint has a target of 200 points, the second sprint 100 points, and the third sprint 200 points. A lower point target has been set for the second sprint since there is a national holiday in Turkey during this period and all team members are residing in Turkey.
-  - **Daily Scrum**:
+  - **Tahmin Edilen Tamamlanacak Puan**: 200 points
+  - **Tahmin Mantığı**: 
+  - **Günlük Scrum**:
   -  ![WhatsApp Image 2025-07-05 at 00 47 59 (1)](https://github.com/user-attachments/assets/05fb5680-016a-405c-8e15-d902d789a901)
   -  ![WhatsApp Image 2025-07-05 at 00 47 59](https://github.com/user-attachments/assets/a34b8416-b7d1-4d0e-885a-f298bef1555e)
 
