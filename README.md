@@ -153,6 +153,8 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
     
     - İkinci sprintte ekip toplantısında web sitesi için sadece Melih ve Sude Nur'un kod yazmasına karar verildi.
     
+    - Kişilik testleri incelenci ve nihai karar ikinci sprinte bırakıldı.
+      
     - İkinci sprintte Docker ortamının hazırlanması ve konteyner orkestrasyonu yapılmasına karar verdik.
     
     - İkinci sprintte PostgreSQL veritabanının kurulumu, yedekleme & rol ayarlarını yapacağız.
