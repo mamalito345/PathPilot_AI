@@ -224,8 +224,10 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
   <details>
     <summary><h3>Sprint 2 - Sprint Board Update Screenshots</h3></summary>
-    <img src="bootcampFiles/sprintTwo/boardupdate/10.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintTwo/boardupdate/11.png" style="max-width: 100%; height: auto;">
+    <img src="![SPRİNT 1 DAY 1](https://github.com/user-attachments/assets/719c9c69-1d77-47b6-853e-52e8e0ecec42)
+  " style="max-width: 100%; height: auto;">
+    <img src="![SPRİNT 1 DAY ](https://github.com/user-attachments/assets/278124d3-1c07-4171-9f22-2ab6f22836de)
+ " style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprintTwo/boardupdate/12.png" style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprintTwo/boardupdate/13.png" style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprintTwo/boardupdate/14.png" style="max-width: 100%; height: auto;">
