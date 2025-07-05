@@ -92,7 +92,12 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
   <details>
     <summary><h3>Sprint 1 - Sprint Board Update Screenshots</h3></summary>
-    <img src="bootcampFiles/sprintOne/boardupdate/10.png" style="max-width: 100%; height: auto;">
+ 
+   ![SPRİNT 1 DAY 1](https://github.com/user-attachments/assets/f055c997-fa13-4ea5-9a26-7d239a8cdf67)
+
+   ![SPRİNT 1 DAY ](https://github.com/user-attachments/assets/dbb40f54-54ed-4db6-81fc-6a84d6a06306)
+
+   <img src="bootcampFiles/sprintOne/boardupdate/10.png" style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprintOne/boardupdate/11.png" style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprintOne/boardupdate/12.png" style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprintOne/boardupdate/13.png" style="max-width: 100%; height: auto;">
