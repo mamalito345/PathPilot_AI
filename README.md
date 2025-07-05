@@ -177,7 +177,7 @@ Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik 
   - **Sprint Review:**
     - Proje için Miro kurulumu yapıldı ve takım görev panosunu oluşturuldu.
     - Proje dosyasının ön hazırlığını yaptık ve proje üzerinde güncellemeler gerçekleştirdik.
-    - Uygulama adı konusunda karar vermekte zorlandık. 'PATHPilotAİ' ve 'CAREERPATH' arasında çok kararsız kaldık ve takım adını  'PATHPilotAİ' proje ismini ise 'CAREERPATH' olarak seçtik ve markalaşmaya doğru bir adım daha attık.
+    - Uygulama adı konusunda karar vermekte zorlandık. 'PATHPilotAI' ve 'CAREERPATH' arasında çok kararsız kaldık ve takım adını  'PATHPilotAI' proje ismini ise 'CAREERPATH' olarak seçtik ve markalaşmaya doğru bir adım daha attık.
     - Renk paletine karar verememiş ve henüz logoyu tamamlamamıştık.
     - Tuba İlhan Horuz Logosu ve sloganı oluşturdu.
     - Melih Talha Aktaş tarafından WordPress kurulumunu ve tema seçimi yapıldı.
@@ -201,11 +201,11 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
    
     - İkinci sprintte REST API köprüsü ve JWT tabanlı güvenli bağlantı kurulmasına karar verildi 
    
-    - Veri analizi için ikinci sprintte ilgili kütüphaneleri (Pandas & NumPy) kurulumuna karar verildi.
+    - İkinci sprintte veri analizi için ilgili kütüphanelerin (Pandas & NumPy) kurulumuna karar verildi.
     
     - İkinci sprintte scikit-learn & XGBoost kurulumu + örnek meslek öneri modeli  geliştirilmesine karar verildi.
     
-    - ikinci sprintte derin öğrenme ortamı oluşturmak için TensorFlow / PyTorch kullanılmasına karar verildi.
+    - İkinci sprintte derin öğrenme ortamı oluşturmak için TensorFlow / PyTorch kullanılmasına karar verildi.
 
     - İkinci sprintte Holland Test NLP skorlayıcı entegrasyonu yapılmasına karar verildi.
     
@@ -242,102 +242,26 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
 
   <details>
     <summary><h3>Sprint 2 - Screenshots</h3></summary>
-  <table style="width: 100%;">
-    <tr>
-      <td colspan="4" style="text-align: center;"><h2>Updated Pages</h2></td>
-    </tr>
-    <tr>
-      <td colspan="1" style="width: 25%;"><img src="bootcampFiles/sprintTwo/screenshots/10.png" style="max-width: 100%; height: auto;"></td>
-      <td colspan="1" style="width: 25%;"><img src="bootcampFiles/sprintTwo/screenshots/11.png" style="max-width: 100%; height: auto;"></td>
-      <td colspan="1" style="width: 25%;"><img src="bootcampFiles/sprintTwo/screenshots/12.png" style="max-width: 100%; height: auto;"></td>
-      <td colspan="1" style="width: 25%;"><img src="bootcampFiles/sprintTwo/screenshots/13.png" style="max-width: 100%; height: auto;"></td>
-    </tr>
-    <tr>
-      <td colspan="4" style="text-align: center;"><h2>Admin Panel</h2></td>
-    </tr>
-    <tr>
-      <td colspan="4"><img src="bootcampFiles/sprintTwo/screenshots/20.png" style="max-width: 100%; height: auto;"></td>
-    </tr>
-    <tr>
-      <td colspan="4"><img src="bootcampFiles/sprintTwo/screenshots/30.png" style="max-width: 100%; height: auto;"></td>
-    </tr>
-    <tr>
-      <td colspan="4"><img src="bootcampFiles/sprintTwo/screenshots/40.png" style="max-width: 100%; height: auto;"></td>
-    </tr>
-  </table>
+   
   </details>  
 
   <details>
     <summary><h3>Sprint 2 - Sprint Board Update Screenshots</h3></summary>
-   <img src="![SPRİNT 1 DAY 1](https://github.com/user-attachments/assets/719c9c69-1d77-47b6-853e-52e8e0ecec42)
-  " style="max-width: 100%; height: auto;">
-    <img src="![SPRİNT 1 DAY ](https://github.com/user-attachments/assets/278124d3-1c07-4171-9f22-2ab6f22836de)
- " style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintTwo/boardupdate/12.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintTwo/boardupdate/13.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintTwo/boardupdate/14.png" style="max-width: 100%; height: auto;">
+   
   </details>
 
   <details>
     <summary><h3>Sprint 2 - Burndown Chart</h3></summary>
-    <img src="bootcampFiles/sprintTwo/burndown/10.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintTwo/burndown/11.png" style="max-width: 100%; height: auto;">
+    
   </details>
 
   - **Sprint Notes**:
-    - The brand color has been changed. It has transitioned to a shade of `orange`.
-
-    - It has been decided to start on the `admin panel`. The application system will be managed from here.
-
-    - It has been decided to add `internationalization` to the application. `For now, four languages` have been added.
-
-    - It has been decided to use the `Stream SDK` for the messaging system
-
-    - It has been decided to use the `In-App Purchase` system for the in-app payment system.
-
-
-
-
-
-  - **Expected point completion within Sprint**: 100 points
-  - **Point Completion Logic**: `(215 points completed)` During the first sprint, we had set a target of 100 points due to the national holiday and a week-long vacation. However, our team worked even harder than in the first sprint and earned more points than we won in the first sprint.
-  - **Daily Scrum**: See file
-  - **Product Backlog URL:** Click for Backlog (Trello)
-  - **Sprint Review**:
-    - The logo and colors of `zaten` have been determined. From now on, the brand will continue its life with this color and logo.
-    - We have created our own JSON file for location information. As mentioned in the previous sprint retrospective, we can say that we partially wrote our own API.
-    - As mentioned in the previous sprint, we have started using `Hive` for the local database.
-    - As mentioned, we have started creating an admin panel for our site, zaten.app.
-    - As mentioned, an Instagram account has been opened.
-    - As discussed, localization has been added and it has been launched with not 2, but 4 languages.
-    - The Adding Product Feed Algorithm` backend system has been created and embedded into the application.
-    - The proposal creation/viewing system has been added, and the backend has been embedded.
-    - The product liking system has been added.
-    - We have created personas for our user target audience.
-
-  - **Sprint Review Participants:** `Burak Taha Cevheroğlu`, `Arda Demirel`, `Dila Hazal Bilgin`, `Merve Ağaçayak`, `Onur Konuk`
+  - **Sprint Review Participants:** 
   - **Sprint Retrospective:**
-    - The completion of the payment system has been deferred to the third sprint.
-    - The messaging system has been deferred to the third sprint.
-    - All the pages for the buttons in the settings will be completed.
-    - The user name selection page will be added.
-    - As the application has reached the final stages of completion, unit tests and other testing procedures will be written and conducted.
-    - In order to gather feedback for the application, we will be conducting usability testing in the coming days.
-    - The design for the application's homepage image and profile cover photo will be created.
-    - Notifications will be added, and we can consider using OneSignal.
-    - The admin panel will be finalized, and the application will be managed from there.
-    - The product search system will be added to the application and will be in a usable state.
   - **Other Notes**:
     <details>
     <summary><h3>Additional Files</h3></summary>
-    <ul>
-      <li><strong>Our Location API</strong>Go to api</li>
-      <li><strong>Explicit Consent Agreement</strong> <a href="./bootcampFiles/sprintTwo/acik_riza.docx">See file</a></li>
-      <li><strong>Privacy Notice</strong> <a href="./bootcampFiles/sprintTwo/aydinlatma_metni.docx">See file</a></li>
-      <li><strong>User Agreement</strong> <a href="./bootcampFiles/sprintTwo/kullanici_sozlesmesi.pdf">See file</a></li>
-      <li><strong>User Personas</strong> <a href="./bootcampFiles/sprintTwo/personas.docx">See file</a></li>
-      <li><strong>App Navigation Schema</strong> <a href="./bootcampFiles/sprintTwo/map.png">See file</a></li>
-    </ul>
+   
   </details>
 
 
@@ -351,57 +275,33 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
 
 
   <details>
-    <summary><h3>Sprint 3 - Screenshots</h3></summary>
-      <ul>
-        <li><strong>APP Diagram: </strong>Go to diagram</li>
-        <li><strong>Carousel Images And Deep Link: </strong>Go to api</li>
-        <li><img src="bootcampFiles/sprintThree/screenshots/10.png" style="max-width: 100%; height: auto;"></li>
-      </ul>
+    
   </details>
 
   <details>
     <summary><h3>Sprint 3 - Sprint Board Update Screenshots</h3></summary>
-    <img src="bootcampFiles/sprintThree/boardupdate/10.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintThree/boardupdate/11.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintThree/boardupdate/12.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintThree/boardupdate/13.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintThree/boardupdate/14.png" style="max-width: 100%; height: auto;">
+   
   </details>
 
   <details>
     <summary><h3>Sprint 3 - Burndown Chart</h3></summary>
-    <img src="bootcampFiles/sprintThree/burndown/10.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintThree/burndown/11.png" style="max-width: 100%; height: auto;">
+    
   </details>
 
 
   - **Sprint Notes**:
-    - The internationalization system has been updated. The number of supported languages has been increased from 4 to 7.
-    - We have enabled guest login to the application and integrated it into our system.
-    - With bug fixing and testing stages, we have solved all the problems that may arise in our application and completed the process.
-    - In this final sprint, we dedicated our efforts to enhancing the App Route System by implementing Deep Link functionality. Deep Linking allows users to access specific content or features within the app directly from external sources such as websites, messages, or push notifications.
-  - **Expected point completion within Sprint**: 200 points
-  - **Point Completion Logic**: `(745 points completed)` Since this is the final sprint, we have completed the system that was planned and started to be implemented in previous sprints, and our sprint score has reached 745 because we completed most of the important features in this sprint.
-  - **Daily Scrum**: See file
-  - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=59797635369
+  
+  - **Expected point completion within Sprint**
+  - **Point Completion Logic**:
+  - **Daily Scrum**: 
+  - **Product Backlog URL:** 
   - **Sprint Review**:
-    - We have developed the Notification System that enables users to communicate with each other using onesignal and firestore technologies.
-    - As mentioned, we developed the messaging system using the Stream SDK. We have also added the feature that users can share their instant locations with each other during messaging using the Google Maps and Google Maps service. (Google Maps Static API)
-    - We successfully created a Payment&Wallet System by leveraging the combined power of Stripe, Riverpod, and Firestore. By integrating Stripe's robust payment infrastructure, Riverpod's efficient state management, and Firestore's scalable database, our system ensures a reliable and user-friendly experience for handling payments and managing digital wallets.
-    - We created a review system using Firestore, where users can read and give feedback on each other's experiences. This system allows users to rate and comment on the things they have rented, helping others make better decisions based on shared opinions.
-    - The languages we've added to our application are; Turkish, English, French, Japanese, Spanish, Hebrew, and German.
-  - **Sprint Review Participants:** `Burak Taha Cevheroğlu`, `Arda Demirel`, `Dila Hazal Bilgin`, `Merve Ağaçayak`, `Onur Konuk`
+  - **Sprint Review Participants:** 
   - **Sprint Retrospective:**
-    - All the features determined at the beginning of the competition and mentioned in the previous sprints were added and the project was successfully completed.
-    - `We, as a team, celebrated the end of the sprint and started preparing for the demo day presentation.`
   - **Other Notes**:
   <details>
     <summary><h3>Additional Files</h3></summary>
-    <ul>
-      <li><strong>APP Diagram: </strong>Go to api</li>
-      <li><strong>Carousel Images And Deep Link: </strong>Go to api</li>
-      <li><strong>FAQ: </strong> <a href="./bootcampFiles/sprintThree/faq.pdf">See file</a></li>
-    </ul>
+
   </details>
 
   </details>
@@ -433,23 +333,22 @@ Tüm bu çabalarımız, bireylerin gelecekte geçerliliğini koruyacak meslekler
 
 ---
 
-## 🧠 Öğrenme Mühendisliği + Büyük Veri Entegrasyonu
+##  Öğrenme Mühendisliği + Büyük Veri Entegrasyonu
 
 - **İhtiyaç Analizi:** Öğrencilerin sadece çevresel faktörlere göre meslek seçmesi
-- **Veri Kaynakları:** TÜİK, İŞKUR, LinkedIn, Coursera, OECD
-- **AI Destekli Eşleştirme:** Holland Testi sonuçları + piyasa verileri
+- **Veri Kaynakları:** O*NET, TÜİK, İŞKUR, LinkedIn, Coursera, OECD
+- **AI Destekli Eşleştirme:** Kişilik testi sonuçları + piyasa verileri
 - **Simülasyon:** Sanal meslek deneyimi
 - **Karar Destek:** AI model ile meslek öneri yüzdeleri
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler ve Araçlar
+##  Kullanılan Teknolojiler ve Araçlar
 
 | Teknoloji | Kullanım Amacı |
 |-----------|----------------|
 | Python | Veri analizi ve modelleme |
 | Power BI | Meslek veri analiz ve görselleştirme |
-| Holland Test API (simülasyon) | İlgi-yetenek profili çıkarımı |
 | Coursera Trends / LinkedIn Insights | Becerilere dair büyük veri analizi |
 | Figma / Canva | Öğrenci kariyer plan sunumları |
 | Streamlit / Flask (isteğe bağlı) | AI destekli öneri sistemi prototipi |
@@ -457,17 +356,17 @@ Tüm bu çabalarımız, bireylerin gelecekte geçerliliğini koruyacak meslekler
 
 ---
 
-## 📊 Power BI Dashboard Örnekleri
+##  Power BI Dashboard Örnekleri
 
-- 🌐 Sektörel büyüme haritası  
-- 📈 Talep gören mesleklerin yıllık değişimi  
-- 🧠 Öğrencinin kişisel uyum skoru ve meslek tahmin grafiği
+-  Sektörel büyüme haritası  
+-  Talep gören mesleklerin yıllık değişimi  
+-  Öğrencinin kişisel uyum skoru ve meslek tahmin grafiği
 
 (Tüm görseller klasör içinde: `/dashboards/`)
 
 ---
 
-## 📁 Proje Dosya Yapısı
+##  Proje Dosya Yapısı
 
 ```
 Veriye-Dayali-Kariyer-Kesfi/
@@ -483,7 +382,7 @@ Veriye-Dayali-Kariyer-Kesfi/
 
 ---
 
-## 💡 Katkıda Bulunmak İster misiniz?
+##  Katkıda Bulunmak İster misiniz?
 
 Pull request’lere ve issue açmanıza açığız. Katkı sunmak için:
 
@@ -496,7 +395,7 @@ Pull request’lere ve issue açmanıza açığız. Katkı sunmak için:
 
 ---
 
-## 📄 Lisans
+##  Lisans
 
 MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
 
