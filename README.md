@@ -139,15 +139,7 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
   - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=476687804339 (Miro)
   - **Sprint Review:**
-    - Arda and Burak carried out a coordinated effort for the backend and frontend. We have agreed within the team to continue this way in the next sprint.
-
-    - We struggled to decide on an application name for a while. We transitioned from 'zaten' to 'zaten' and took another step towards branding by purchasing the 'zaten.app' domain for the name.
-
-    - The two biggest problems we encountered in this sprint were difficulty in deciding on a color palette and not having completed the logo yet.
-
-    - We learned that the FloatingActionButton usage in the BottomNavigationBar and the notched feature of the navigation bar have been removed in Material 3, we overcame this issue by designing it ourselves.
-
-    - Overall, we believe we had a good sprint process. We experienced a sprint process close to what we planned.
+    - 
 
   - **Sprint Review Participants:** `Tuba İlhan Horuz`, `Duygu Başak Acar`, `Sude Nur Kömür`, `Melih Talha Bektaş`, `Saim Berk Akçeşme`
   - **Sprint Retrospective:**
@@ -458,7 +450,7 @@ Veriye-Dayali-Kariyer-Kesfi/
 Pull request’lere ve issue açmanıza açığız. Katkı sunmak için:
 
 ```bash
-1. Hemen uygulamayı indir!
+1. Hemen web sitemize giriş yap!
 2. Testi çöz!
 3. Sonuçlarını sosyal mediada paylaş!
 4. Bizi etiketlemeyi unutma!!! 😊
@@ -472,8 +464,4 @@ MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz at
 
 ---
 
-## ✉️ İletişim
 
-Proje sahibi: [Adınız]  
-E-posta: [e-posta adresiniz]  
-LinkedIn: [LinkedIn bağlantınız]
