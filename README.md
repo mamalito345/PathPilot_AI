@@ -154,7 +154,9 @@ WhatsApp Grubu ve WP Topluluğu Oluşturma, Dosya Yedekleme: 15 Puan
 
 Takım Toplantıları ve Aktif İletişim: 15 Puan
 
-Yeni Toplam Puan: 25+35+20+20+30+40+15+15=200 Puan.
+Toplam Puan: 25+35+20+20+30+40+15+15=200 Puan.
+
+Hedef Puan:200 Puan.
 
 Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik görevlerin ağırlığını yansıtmaktadır.
 
@@ -178,7 +180,7 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
     
     - İkinci sprintte ekip toplantısında web sitesi için sadece Melih ve Sude Nur'un kod yazmasına karar verildi.
     
-    - Kişilik testleri incelenci ve nihai karar ikinci sprinte bırakıldı.
+    - Kişilik testleri incelendi ve nihai karar ikinci sprinte bırakıldı.
       
     - İkinci sprintte Docker ortamının hazırlanması ve konteyner orkestrasyonu yapılmasına karar verdik.
     
