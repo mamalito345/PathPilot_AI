@@ -133,6 +133,31 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
   - **Tahmin Edilen Tamamlanacak Puan**: 200 points
   - **Tahmin Mantığı**: 
+  - Sprint 1 Sonu Tahmin Mantığı
+Sprint 1'de tamamlanan işler ve bu işlere atanan puanlar, Google Proje Yönetimi programı eğitimine uygun olarak, her bir görevin karmaşıklığı, harcanan efor ve proje için taşıdığı önem göz önüne alınarak belirlenmiştir. Toplam 200 puan hedefine ulaşmak için aşağıdaki görevler ve puanlamalar yapılmıştır:
+
+Tamamlanan Görevler ve Puan Dağılımı:
+
+Miro Kurulumu ve Görev Panosu Oluşturma: 25 Puan
+
+Proje Dosyası Ön Hazırlığı ve Güncellemeler: 35 Puan
+
+Githup Repo Oluşturma: 20 Puan
+
+Uygulama ve Takım Adı Kararı: 20 Puan
+
+Logo ve Slogan Oluşturma: 30 Puan
+
+WordPress Kurulumu ve Tema Seçimi: 40 Puan
+
+WhatsApp Grubu ve WP Topluluğu Oluşturma, Dosya Yedekleme: 15 Puan
+
+Takım Toplantıları ve Aktif İletişim: 15 Puan
+
+Yeni Toplam Puan: 25+35+20+20+30+40+15+15=200 Puan.
+
+Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik görevlerin ağırlığını yansıtmaktadır.
+
   - **Günlük Scrum**:
   -  ![WhatsApp Image 2025-07-05 at 00 47 59 (1)](https://github.com/user-attachments/assets/05fb5680-016a-405c-8e15-d902d789a901)
   -  ![WhatsApp Image 2025-07-05 at 00 47 59](https://github.com/user-attachments/assets/a34b8416-b7d1-4d0e-885a-f298bef1555e)
