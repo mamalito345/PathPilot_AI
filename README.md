@@ -401,7 +401,6 @@ Tüm bu çabalarımız, bireylerin gelecekte geçerliliğini koruyacak meslekler
 -  Talep gören mesleklerin yıllık değişimi  
 -  Öğrencinin kişisel uyum skoru ve meslek tahmin grafiği
 
-(Tüm görseller klasör içinde: `/dashboards/`)
 
 ---
 
@@ -431,12 +430,6 @@ Pull request’lere ve issue açmanıza açığız. Katkı sunmak için:
 3. Sonuçlarını sosyal mediada paylaş!
 4. Bizi etiketlemeyi unutma!!! 😊
 ```
-
----
-
-##  Lisans
-
-MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
 
 ---
 
