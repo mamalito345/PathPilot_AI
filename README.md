@@ -32,136 +32,56 @@
     <td>Developer</td>
     <td>
       <a href="https://www.linkedin.com/in/duygu-başak-acar-97a4a433b" style="display:inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
       </a>
       <a href="https://github.com/DuyguAcar" style="display:inline-block; margin-left:4px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
       </a>
     </td>
   </tr>
 
   <tr>
-    <td>👨‍💻</td>
+    <td><img src="https://github.com/user-attachments/assets/88c5cc9e-3ddc-4874-ac46-6e23ee290fca" width="60"/></td>
     <td>Melih Taha BEKTAŞ</td>
     <td>Developer</td>
     <td>
       <a href="https://www.linkedin.com/in/melih-talha-bekta%C5%9F-6992a424a/" style="display:inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
       </a>
       <a href="https://github.com/mamalito345" style="display:inline-block; margin-left:4px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
       </a>
     </td>
   </tr>
 
   <tr>
-    <td>👨‍💻</td>
+    <td><img src="https://github.com/user-attachments/assets/32e7be72-f33f-4119-921d-cebb9dcaa720" width="60"/></td>
     <td>Saim Berk AKÇEŞME</td>
     <td>Developer</td>
     <td>
       <a href="https://www.linkedin.com/in/saimberkak%C3%A7e%C5%9Fme/" style="display:inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
       </a>
       <a href="https://github.com/berkakcesme" style="display:inline-block; margin-left:4px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
       </a>
     </td>
   </tr>
 
   <tr>
-    <td>👩‍💻</td>
+    <td><img src="" width="60"/></td>
     <td>Sude Nur KÖMÜR</td>
     <td>Developer</td>
     <td>
       <a href="https://www.linkedin.com/in/sudenurkomur/" style="display:inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
       </a>
       <a href="https://github.com/sudenurkomur" style="display:inline-block; margin-left:4px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
       </a>
     </td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Title</th>
-    <th>Socials</th>
-  </tr>
-
-  <tr>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/00000000" width="40" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />
-      <span>Tuba İLHAN HORUZ</span>
-    </td>
-    <td>Scrum Master</td>
-    <td>
-      <a href="https://www.linkedin.com/in/tuba-ilhan-horuz" style="display:inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
-      </a>
-      <a href="https://github.com/ttuubbaa" style="display:inline-block; margin-left:8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/f2a45f69-df42-41b3-91db-ff32e9a8c79e" width="40" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />
-      <span>Duygu Başak ACAR</span>
-    </td>
-    <td>Developer</td>
-    <td>
-      <a href="https://www.linkedin.com/in/duygu-başak-acar-97a4a433b">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
-      </a>
-      <a href="https://github.com/DuyguAcar" style="margin-left:8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>Melih Taha BEKTAŞ</td>
-    <td>Developer</td>
-    <td>
-      <a href="https://www.linkedin.com/in/melih-talha-bekta%C5%9F-6992a424a/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
-      </a>
-      <a href="https://github.com/mamalito345" style="margin-left:8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>Saim Berk AKÇEŞME</td>
-    <td>Developer</td>
-    <td>
-      <a href="https://www.linkedin.com/in/saimberkak%C3%A7e%C5%9Fme/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
-      </a>
-      <a href="https://github.com/berkakcesme" style="margin-left:8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>Sude Nur KÖMÜR</td>
-    <td>Developer</td>
-    <td>
-      <a href="https://www.linkedin.com/in/sudenurkomur/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
-      </a>
-      <a href="https://github.com/sudenurkomur" style="margin-left:8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 # Veriye Dayalı Kariyer Keşfi – Geleceğini Büyük Verilerle Tasarla 
 
