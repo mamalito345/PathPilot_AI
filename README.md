@@ -172,10 +172,13 @@ Toplam Puan: 25+35+20+20+30+40+15+15=200 Puan.
 
 Hedef Puan:200 Puan.
 
-Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik görevlerin ağırlığını yansıtmaktadır.
+Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik görevlerin ağırlığını yansıtmaktadır. **Sprint 1 için hedeflenen puana ulaşılmıştır.**
 
   - **Günlük Scrum**:
-  - Her gün Google meet üzerinden toplantılar yaptık. Whatsapp grubumuzdan aktif olarak sürekli iletişim kurduk. Oluşturduğumuz dökümanlar ve çalışma dosyaları için grubumuza ait bir WhatsApp topluluğu oluşturduk ve dosyalarımızı orada yedeklediklemeye ve biriktirmeye başladık.
+  - Her gün Google Meet üzerinden toplantılar yapılmıştır.
+  - WhatsApp grubu üzerinden aktif olarak iletişim halinde kalınmıştır.
+  - ![WhatsApp Görsel 2025-07-06 saat 17 08 47_06d228fc](https://github.com/user-attachments/assets/3ba3a87a-552a-4f10-a6fb-ea7f5ba243a9)
+
     
 | ![WhatsApp Image 2025-07-05 at 00 47 59 (1)](https://github.com/user-attachments/assets/05fb5680-016a-405c-8e15-d902d789a901) |![WhatsApp Image 2025-07-06 at 17 39 54](https://github.com/user-attachments/assets/9dc1c78a-6f1e-4c1a-b69c-8eb8521d9eec)|
 |------------------------|------------------------|
@@ -191,7 +194,8 @@ Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik 
     - Meslekler hakkında kullanılacak verilerin başlıca O*NET sitesinden toplanmasına karar verildi.
     - Halihazırda kullanılan kişilik testleri araştırıldı.
 
-Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımız gibi bir sprint süreci yaşadık. Takımımız sonradan kurulan bir takım olduğu için bir haftada tüm planlamamızı yapabilmek için her gün Google meet üzerinden toplantılar yaptık. Whatsapp grubumuzdan aktif olarak sürekli iletişim kurduk. Oluşturduğumuz dökümanlar ve çalışma dosyaları için grubumuza ait bir WhatsApp topluluğu oluşturduk ve dosyalarımızı orada yedeklediklemeye ve biriktirmeye başladık.
+Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımız gibi bir sprint süreci yaşadık. Takımımız sonradan kurulan bir takım olduğu için bir haftada tüm planlamamızı yapabilmek için her gün Google meet üzerinden toplantılar yaptık. Whatsapp grubumuzdan aktif olarak sürekli iletişim kurduk.  Oluşturulan döküman ve çalışma dosyalarını yedeklemek amacıyla gruba ait bir WhatsApp topluluğu oluşturduk.
+
 
   - **Sprint Review Participants:** `Tuba İlhan Horuz`, `Duygu Başak Acar`, `Sude Nur Kömür`, `Melih Talha Bektaş`, `Saim Berk Akçeşme`
   - **Sprint Retrospective:**
