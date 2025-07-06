@@ -55,7 +55,7 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
   ###  Burndown Chart (Kalan İş Grafiği)
   
-  [WhatsApp Görsel 2025-07-06 saat 19 05 11_b35282d4](https://github.com/user-attachments/assets/d138278a-dd3a-4d3d-bf84-c16fb6513b00)
+  ![WhatsApp Görsel 2025-07-06 saat 19 05 11_b35282d4](https://github.com/user-attachments/assets/d138278a-dd3a-4d3d-bf84-c16fb6513b00)
 
 
   Bu grafik, Sprint 1 süresince takımın ilerlemesini ve kalan iş yükünü göstermektedir. İlk günlerde ilerleme yavaştı, ancak sonraki günlerde artan tempo ile sprint sonunda tüm işler başarıyla tamamlanmıştır.
