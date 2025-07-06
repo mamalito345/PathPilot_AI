@@ -100,12 +100,10 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 ---
 #  Sprintler
 
-  <details>
+
+<details>
     <summary><h1>Sprint 1</h1></summary>
-  
-  </details>   
-
-
+    
   <details>
     <summary><h3>Sprint 1 - Sprint Board Update Screenshots</h3></summary>
  
@@ -117,7 +115,7 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
   </details>
 
 
-<details>
+  <details>
   <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
 
   ###  Burndown Chart (Kalan İş Grafiği)
