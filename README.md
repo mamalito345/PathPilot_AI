@@ -2,15 +2,77 @@
 ![carer path](https://github.com/user-attachments/assets/cdf0a44b-c1fc-442d-8143-c9f2375d5b15)
 
 ##  Takım Üyeleri
+<table>
+  <tr>
+    <td>👩‍💼</td>
+    <td>Tuba İLHAN HORUZ</td>
+    <td>Scrum Master</td>
+    <td>
+      <a href="https://www.linkedin.com/in/tuba-ilhan-horuz">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+      </a>
+      <a href="https://github.com/ttuubbaa">
+        <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" />
+      </a>
+    </td>
+  </tr>
 
-| Fotoğraf | İsim | Pozisyon | Sosyal Medya |
-|------|------|-------|---------|
-| 👩‍💼 | Tuba İLHAN HORUZ | Scrum Master | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/tuba-ilhan-horuz) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/ttuubbaa) |
-| 👩‍💼 | Duygu Başak ACAR | Developer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/duygu-başak-acar-97a4a433b) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/DuyguAcar) |
-| 👨‍💻 | Melih Taha BEKTAŞ | Developer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/melih-talha-bekta%C5%9F-6992a424a/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/mamalito345)|
-| 👨‍💻 | Saim Berk AKÇEŞME | Developer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/saimberkak%C3%A7e%C5%9Fme/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/berkakcesme) |
-| 👩‍💻 | Sude Nur KÖMÜR | Developer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/sudenurkomur/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/sudenurkomur) |
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f2a45f69-df42-41b3-91db-ff32e9a8c79e" width="60"/></td>
+    <td>Duygu Başak ACAR</td>
+    <td>Developer</td>
+    <td>
+      <a href="https://www.linkedin.com/in/duygu-başak-acar-97a4a433b">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+      </a>
+      <a href="https://github.com/DuyguAcar">
+        <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" />
+      </a>
+    </td>
+  </tr>
 
+  <tr>
+    <td>👨‍💻</td>
+    <td>Melih Taha BEKTAŞ</td>
+    <td>Developer</td>
+    <td>
+      <a href="https://www.linkedin.com/in/melih-talha-bekta%C5%9F-6992a424a/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+      </a>
+      <a href="https://github.com/mamalito345">
+        <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>👨‍💻</td>
+    <td>Saim Berk AKÇEŞME</td>
+    <td>Developer</td>
+    <td>
+      <a href="https://www.linkedin.com/in/saimberkak%C3%A7e%C5%9Fme/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+      </a>
+      <a href="https://github.com/berkakcesme">
+        <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>👩‍💻</td>
+    <td>Sude Nur KÖMÜR</td>
+    <td>Developer</td>
+    <td>
+      <a href="https://www.linkedin.com/in/sudenurkomur/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+      </a>
+      <a href="https://github.com/sudenurkomur">
+        <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 # Veriye Dayalı Kariyer Keşfi – Geleceğini Büyük Verilerle Tasarla 
@@ -32,9 +94,6 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
   <details>
     <summary><h1>Sprint 1</h1></summary>
-
-
-  <details>
   
   </details>   
 
@@ -58,10 +117,10 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
   ![WhatsApp Görsel 2025-07-06 saat 19 05 11_b35282d4](https://github.com/user-attachments/assets/d138278a-dd3a-4d3d-bf84-c16fb6513b00)
 
 
-  Bu grafik, Sprint 1 süresince takımın ilerlemesini ve kalan iş yükünü göstermektedir. İlk günlerde ilerleme yavaştı, ancak sonraki günlerde artan tempo ile sprint sonunda tüm işler başarıyla tamamlanmıştır.
+  Bu grafik, Sprint 1 süresince takımın ilerlemesini ve kalan iş yükünü göstermektedir. İlk günlerde ilerleme yavaş olmasına rağmen sonraki günlerde artan tempo ile sprint sonunda tüm işler başarıyla tamamlanmıştır.
 
-  - **Gerçek Kalan İş**: Takımın her gün sonunda geriye kalan iş miktarını gösterir.
-  - **İdeal İlerleme**: Her gün eşit miktarda iş tamamlanmış olsaydı nasıl bir azalma olurdu, bunu gösterir.
+  - Gerçek Kalan İş: Takımın her gün sonunda geriye kalan iş miktarını gösterir.
+  - İdeal İlerleme: Her gün eşit miktarda iş tamamlanmış olsaydı nasıl bir azalma olurdu, bunu gösterir.
 
 
 
