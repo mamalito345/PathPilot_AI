@@ -188,6 +188,8 @@ Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik 
     - Renk paletine karar verememiş ve henüz logoyu tamamlamamıştık.
     - Tuba İlhan Horuz tarafından logo ve slogan oluşturdu.
     - Melih Talha Aktaş tarafından WordPress kurulumunu ve tema seçimi yapıldı.
+    - Meslekler hakkında kullanılacak verilerin başlıca O*NET sitesinden toplanmasına karar verildi.
+    - Halihazırda kullanılan kişilik testleri araştırıldı.
 
 Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımız gibi bir sprint süreci yaşadık. Takımımız sonradan kurulan bir takım olduğu için bir haftada tüm planlamamızı yapabilmek için her gün Google meet üzerinden toplantılar yaptık. Whatsapp grubumuzdan aktif olarak sürekli iletişim kurduk. Oluşturduğumuz dökümanlar ve çalışma dosyaları için grubumuza ait bir WhatsApp topluluğu oluşturduk ve dosyalarımızı orada yedeklediklemeye ve biriktirmeye başladık.
 
