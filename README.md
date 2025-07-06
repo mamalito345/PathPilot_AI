@@ -35,84 +35,26 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
 
   <details>
-    <summary><h3>Sprint 1 - App Screenshots</h3></summary>
-  <table style="width: 100%;">
-    <tr>
-      <td colspan="4" style="text-align: center;"><h2>Authentication pages</h2></td>
-    </tr>
-    <tr>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/10.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/11.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/12.png" style="max-width: 100%; height: auto;"></td>
-    </tr>
-    <tr>
-      <td colspan="4" style="text-align: center;"><h2>Homepage and Location pages</h2></td>
-    </tr>
-    <tr>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/20.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/21.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/22.png" style="max-width: 100%; height: auto;"></td>
-    </tr>
-    <tr>
-      <td colspan="4" style="text-align: center;"><h2>Add Product pages</h2></td>
-    </tr>
-    <tr>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/30.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/31.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/32.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/33.png" style="max-width: 100%; height: auto;"></td>
-    </tr>
-    <tr>
-      <td colspan="4" style="text-align: center;"><h2>Offers pages</h2></td>
-    </tr>
-    <tr>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/40.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/41.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/42.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/43.png" style="max-width: 100%; height: auto;"></td>
-    </tr>
-    <tr>
-      <td colspan="4" style="text-align: center;"><h2>Profile and Settings pages</h2></td>
-    </tr>
-    <tr>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/50.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/51.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/52.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/53.png" style="max-width: 100%; height: auto;"></td>
-    </tr>
-    <tr>
-      <td colspan="4" style="text-align: center;"><h2>Rent Product pages</h2></td>
-    </tr>
-    <tr>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/60.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/61.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/62.png" style="max-width: 100%; height: auto;"></td>
-    </tr>
-  </table>
+  
   </details>   
 
 
   <details>
     <summary><h3>Sprint 1 - Sprint Board Update Screenshots</h3></summary>
  
-  | ![SPRİNT 1 DAY 1](https://github.com/user-attachments/assets/f055c997-fa13-4ea5-9a26-7d239a8cdf67) |![SPRİNT 1 DAY ](https://github.com/user-attachments/assets/dbb40f54-54ed-4db6-81fc-6a84d6a06306)|
-|------------------------|------------------------|
-|MİRO 1             | MİRO 2   
+  |![WhatsApp Image 2025-07-06 at 18 44 58](https://github.com/user-attachments/assets/5a914486-9130-444a-8d0c-236df601a884) |![WhatsApp Image 2025-07-06 at 18 45 12](https://github.com/user-attachments/assets/4253c0e3-094a-479b-b9b9-8a04efbfe219)|![WhatsApp Image 2025-07-06 at 18 45 23](https://github.com/user-attachments/assets/ec127648-6509-4f38-834f-d7e682ec7029)|
+|------------------------|------------------------|------------------------|
+|MİRO 1             | MİRO 2                      | MİRO 3  
 
-   
-
-   <img src="bootcampFiles/sprintOne/boardupdate/10.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/boardupdate/11.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/boardupdate/12.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/boardupdate/13.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/boardupdate/14.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/boardupdate/15.png" style="max-width: 100%; height: auto;">
+    
   </details>
 
   <details>
     <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
-    <img src="bootcampFiles/sprintOne/burndown/10.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/burndown/11.png" style="max-width: 100%; height: auto;">
+    |  |
+|------------------------|
+|Tamamlanan iş grafiği             
+
   </details>
 
 
