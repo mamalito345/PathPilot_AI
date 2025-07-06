@@ -249,17 +249,6 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
 
 
 
-
-  - **Other Notes**:
-  <details>
-    <summary><h3>Additional Files</h3></summary>
-    <ul>
-      <li><strong>Project Scope And Goals:</strong> <a href="./bootcampFiles/sprintOne/projectscopeandgoals.pdf">See file</a></li>
-      <li><strong>Target Audience:</strong> <a href="./bootcampFiles/sprintOne/targetaudience.pdf">See file</a></li>
-      <li><strong>Conversations:</strong> See file</li>
-    </ul>
-  </details>
-
   </details>
 
   ---
