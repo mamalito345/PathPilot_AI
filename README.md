@@ -69,7 +69,7 @@
   </tr>
 
   <tr>
-    <td><img src="" width="60"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b01c8635-1ffe-4a35-ba3a-a1be23f41ff6" width="60"/></td>
     <td>Sude Nur KÖMÜR</td>
     <td>Developer</td>
     <td>
