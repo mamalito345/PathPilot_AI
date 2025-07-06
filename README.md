@@ -1,7 +1,7 @@
 # CARRER PATH
 ![carer path](https://github.com/user-attachments/assets/cdf0a44b-c1fc-442d-8143-c9f2375d5b15)
 
-## 👥 Takım Üyeleri
+##  Takım Üyeleri
 
 | Foto | Name | Title | Socials |
 |------|------|-------|---------|
@@ -117,27 +117,28 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
 
   - **Sprint Notları**:
-    -Proje yönetimi için Miro kullanılmasına karar verildi. Miro teması Tuba İlhan Horuz tarafından oluşturuldu.
+    
+    -Proje yönetimi için `Miro` kullanılmasına karar verildi. Miro teması Tuba İlhan Horuz tarafından oluşturuldu.
     
     -Githup repo linki açılmasına karar verildi. Melih Aktaş tarafından Githup Repo oluşturuldu.
     
-    -Giriş sistemi için Email kullanılmasına karar verildi .
+    -Giriş sistemi için `Email` kullanılmasına karar verildi.
     
-    -Web uygulaması için Wordpress (Custom HTML5 / Custom CSS3) kullanılmasına karar verildi.
+    -Web uygulaması için `Wordpress (Custom HTML5 / Custom CSS3)` kullanılmasına karar verildi.
     
-    -Güvenlik için Google reCAPTCHA + WP 2FA kullanılmasına karar verildi.
+    -Güvenlik için `Google reCAPTCHA + WP 2FA` kullanılmasına karar verildi.
     
-    -Sosyal hesaplardan giriş yapılabilmesi için Nextend Social Login kullanılmasına karar verildi.
+    -Sosyal hesaplardan giriş yapılabilmesi için `Nextend Social Login` kullanılmasına karar verildi.
     
-    -Yapay zeka entegrasyonu Python API + REST API bağlantısı (JWT ile güvenli) kullanılmasına karar verildi.
+    -Yapay zeka entegrasyonu `Python API + REST API` bağlantısı (JWT ile güvenli) kullanılmasına karar verildi.
     
-    -Taşınabilir, bağımsız altyapı (özellikle AI modelleriyle çalışırken)  Docker kullanılmasına karar verildi.
+    -Taşınabilir, bağımsız altyapı (özellikle AI modelleriyle çalışırken) `Docker` kullanılmasına karar verildi.
     
-    -Meslek öneri algoritması (sınıflandırma/tavsiye motoru) için scikit-learn / XGBoost kullanılmasına karar verildi.
+    -Meslek öneri algoritması (sınıflandırma/tavsiye motoru) için `scikit-learn / XGBoost` kullanılmasına karar verildi.
     
-    -Derin öğrenme ve Veri analizi ve manipülasyonları için Pandas / NumPy ve  TensorFlow / PyTorch kullanılmasına karar verildi.
+    -Derin öğrenme ve Veri analizi ve manipülasyonları için `Pandas / NumPy` ve  `TensorFlow / PyTorch` kullanılmasına karar verildi.
     
-    -Güçlü, ilişkisel veritabanı için SQL ve PostgreSQL kullanılmasına karar verildi.
+    -Güçlü, ilişkisel veritabanı için `SQL` ve `PostgreSQL` kullanılmasına karar verildi.
     
 
   - **Tahmin Edilen Tamamlanacak Puan**: 200 puan.
@@ -159,7 +160,7 @@ Logo ve Slogan Oluşturma: 30 Puan
 
 WordPress Kurulumu ve Tema Seçimi: 40 Puan
 
-WhatsApp Grubu ve WP Topluluğu Oluşturma, Dosya Yedekleme: 15 Puan
+WhatsApp Grubu ve WhatsApp Topluluğu Oluşturma, Dosya Yedekleme: 15 Puan
 
 Takım Toplantıları ve Aktif İletişim: 15 Puan
 
@@ -170,7 +171,7 @@ Hedef Puan:200 Puan.
 Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik görevlerin ağırlığını yansıtmaktadır.
 
   - **Günlük Scrum**:
-  - Her gün Google meet üzerinden toplantılar yaptık. Whatsapp grubumuzdan aktif olarak sürekli iletişim kurduk. Oluşturduğumuz dökümanlar ve çalışma dosyaları için grubumuza ait bir Whatsapp topluluğu oluşturduk ve dosyalarımızı orada yedeklediklemeye ve biriktirmeye başladık.
+  - Her gün Google meet üzerinden toplantılar yaptık. Whatsapp grubumuzdan aktif olarak sürekli iletişim kurduk. Oluşturduğumuz dökümanlar ve çalışma dosyaları için grubumuza ait bir WhatsApp topluluğu oluşturduk ve dosyalarımızı orada yedeklediklemeye ve biriktirmeye başladık.
     
 | ![WhatsApp Image 2025-07-05 at 00 47 59 (1)](https://github.com/user-attachments/assets/05fb5680-016a-405c-8e15-d902d789a901) |![WhatsApp Image 2025-07-05 at 00 47 59](https://github.com/user-attachments/assets/a34b8416-b7d1-4d0e-885a-f298bef1555e)|
 |------------------------|------------------------|
@@ -179,19 +180,17 @@ Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik 
   - **Sprint Review:**
     - Proje için Miro kurulumu yapıldı ve takım görev panosunu oluşturuldu.
     - Proje dosyasının ön hazırlığını yaptık ve proje üzerinde güncellemeler gerçekleştirdik.
-    - Uygulama adı konusunda karar vermekte zorlandık. 'PATHPilotAI' ve 'CAREERPATH' arasında çok kararsız kaldık ve takım adını  'PATHPilotAI' proje ismini ise 'CAREERPATH' olarak seçtik ve markalaşmaya doğru bir adım daha attık.
+    - Uygulama adı konusunda karar vermekte zorlandık. 'PathPilotAI' ve 'CAREERPATH' arasında çok kararsız kaldık ve takım adını  'PathPilotAI' proje ismini ise 'CAREERPATH' olarak seçtik ve markalaşmaya doğru bir adım daha attık.
     - Renk paletine karar verememiş ve henüz logoyu tamamlamamıştık.
-    - Tuba İlhan Horuz Logosu ve sloganı oluşturdu.
+    - Tuba İlhan Horuz tarafından logo ve slogan oluşturdu.
     - Melih Talha Aktaş tarafından WordPress kurulumunu ve tema seçimi yapıldı.
 
-Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımız gibi bir sprint süreci yaşadık. Takımımız sonradan kurulan bir takım olduğu için bir haftada tüm planlamamızı yapabilmek için her gün Google meet üzerinden toplantılar yaptık. Whatsapp grubumuzdan aktif olarak sürekli iletişim kurduk. Oluşturduğumuz dökümanlar ve çalışma dosyaları için grubumuza ait bir Whatsapp topluluğu oluşturduk ve dosyalarımızı orada yedeklediklemeye ve biriktirmeye başladık.
+Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımız gibi bir sprint süreci yaşadık. Takımımız sonradan kurulan bir takım olduğu için bir haftada tüm planlamamızı yapabilmek için her gün Google meet üzerinden toplantılar yaptık. Whatsapp grubumuzdan aktif olarak sürekli iletişim kurduk. Oluşturduğumuz dökümanlar ve çalışma dosyaları için grubumuza ait bir WhatsApp topluluğu oluşturduk ve dosyalarımızı orada yedeklediklemeye ve biriktirmeye başladık.
 
   - **Sprint Review Participants:** `Tuba İlhan Horuz`, `Duygu Başak Acar`, `Sude Nur Kömür`, `Melih Talha Bektaş`, `Saim Berk Akçeşme`
   - **Sprint Retrospective:**
     
     - İkinci sprintte ekip toplantısında web sitesi için sadece Melih ve Sude Nur'un kod yazmasına karar verildi.
-    
-    - Kişilik testleri incelendi ve nihai karar ikinci sprinte bırakıldı.
       
     - İkinci sprintte Docker ortamının hazırlanması ve konteyner orkestrasyonu yapılmasına karar verdik.
     
@@ -285,7 +284,6 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
 
   <details>
     
-  </details>
 
   <details>
     <summary><h3>Sprint 3 - Sprint Board Update Screenshots</h3></summary>
@@ -338,7 +336,7 @@ Career Path’in temel hedeflerinden biri, dijital eşitsizlikleri azaltmak, ikl
 
 Tüm bu çabalarımız, bireylerin gelecekte geçerliliğini koruyacak meslekleri keşfetmelerini sağlamak içindir. Böylece her birey, hem kendisi hem de dünya için daha anlamlı ve sürdürülebilir bir kariyer yolculuğuna çıkabilir.
 
-**gelecekte geçerliliğini koruyacak meslekleri** keşfetmelerini sağlamak amaçlanmıştır.**
+**gelecekte geçerliliğini koruyacak meslekleri** keşfetmelerini sağlamak amaçlanmıştır.
 
 ---
 
