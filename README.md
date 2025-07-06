@@ -283,13 +283,14 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
 
 
   ---
-
-  <details>
+<details>
     <summary><h1>Sprint 3</h1></summary>
 
 
   <details>
-    
+    <summary><h3>Sprint 3 - Screenshots</h3></summary>
+   
+  </details>  
 
   <details>
     <summary><h3>Sprint 3 - Sprint Board Update Screenshots</h3></summary>
@@ -300,9 +301,9 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
     <summary><h3>Sprint 3 - Burndown Chart</h3></summary>
     
   </details>
-
+    
   - **Sprint Notes**:
-  
+ 
   - **Expected point completion within Sprint**
   - **Point Completion Logic**:
   - **Daily Scrum**: 
@@ -314,9 +315,12 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
   <details>
     <summary><h3>Additional Files</h3></summary>
 
+   
   </details>
 
+
   </details>
+
 
 
 ---
