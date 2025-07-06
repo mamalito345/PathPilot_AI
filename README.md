@@ -413,7 +413,7 @@ Pull request’lere ve issue açmanıza açığız. Katkı sunmak için:
 ```bash
 1. Hemen web sitemize giriş yap!
 2. Testi çöz!
-3. Sonuçlarını sosyal mediada paylaş!
+3. Sonuçlarını sosyal medyada paylaş!
 4. Bizi etiketlemeyi unutma!!! 😊
 ```
 
