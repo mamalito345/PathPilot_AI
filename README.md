@@ -177,7 +177,7 @@ Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik 
   - **Günlük Scrum**:
   - Her gün Google meet üzerinden toplantılar yaptık. Whatsapp grubumuzdan aktif olarak sürekli iletişim kurduk. Oluşturduğumuz dökümanlar ve çalışma dosyaları için grubumuza ait bir WhatsApp topluluğu oluşturduk ve dosyalarımızı orada yedeklediklemeye ve biriktirmeye başladık.
     
-| ![WhatsApp Image 2025-07-05 at 00 47 59 (1)](https://github.com/user-attachments/assets/05fb5680-016a-405c-8e15-d902d789a901) |![WhatsApp Image 2025-07-06 at 16 54 14](https://github.com/user-attachments/assets/a9c92f71-6595-44de-8da1-35ab518feb58)|
+| ![WhatsApp Image 2025-07-05 at 00 47 59 (1)](https://github.com/user-attachments/assets/05fb5680-016a-405c-8e15-d902d789a901) |![WhatsApp Image 2025-07-06 at 17 39 54](https://github.com/user-attachments/assets/9dc1c78a-6f1e-4c1a-b69c-8eb8521d9eec)|
 |------------------------|------------------------|
 | WhatsApp Grubu- Ekran Görüntüsü 1 | WhatsApp Topluluğu- Ekran Görüntüsü 2  
   - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=476687804339 (Miro)
