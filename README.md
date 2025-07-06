@@ -18,7 +18,7 @@
 Bu proje, lise son sınıf öğrencilerinin **büyük veri**, **öğrenme mühendisliği** ve **yapay zeka** desteği ile meslek seçim süreçlerini bilinçli şekilde gerçekleştirmelerine olanak tanıyan bir kariyer keşif platformudur.
 
 ---
-** Career Path Nedir?**
+**Career Path Nedir?**
 
 Career Path, genç bireylerin gelecekteki mesleklerini seçerken yalnızca kendi ilgi ve yeteneklerine değil, aynı zamanda toplumsal ihtiyaçlara, ekonomik sürdürülebilirliğe ve çevresel etkilere de duyarlı kararlar almalarını destekleyen bir platformdur.
 
@@ -210,7 +210,7 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
 
     - İkinci sprintte kişilik analizi için kullanılacak olan teste karar verilerek NLP skorlayıcı entegrasyonu yapılmasına karar verildi. 
     
-    - İkinci sprintte WP User Manager / Ultimate Member eklentisi kurulumuna karar verildi.
+    - İkinci sprintte WP User Manager  Ultimate Member eklentisi kurulumuna karar verildi.
 
     - İkinci sprintte `Google reCAPTCHA + WP 2FA` güvenlik eklentileri eklenmesine karar verildi.
 
