@@ -13,12 +13,12 @@
 
 
 
-# Veriye Dayalı Kariyer Keşfi – Geleceğini Büyük Verilerle Tasarla 🎓📊
+# Veriye Dayalı Kariyer Keşfi – Geleceğini Büyük Verilerle Tasarla 
 
 Bu proje, lise son sınıf öğrencilerinin **büyük veri**, **öğrenme mühendisliği** ve **yapay zeka** desteği ile meslek seçim süreçlerini bilinçli şekilde gerçekleştirmelerine olanak tanıyan bir kariyer keşif platformudur.
 
 ---
-**🌍 Career Path Nedir?**
+** Career Path Nedir?**
 
 Career Path, genç bireylerin gelecekteki mesleklerini seçerken yalnızca kendi ilgi ve yeteneklerine değil, aynı zamanda toplumsal ihtiyaçlara, ekonomik sürdürülebilirliğe ve çevresel etkilere de duyarlı kararlar almalarını destekleyen bir platformdur.
 
@@ -28,7 +28,7 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
  
 ---
-# 📚 Sprintler
+#  Sprintler
 
   <details>
     <summary><h1>Sprint 1</h1></summary>
@@ -124,7 +124,7 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
     
     -Giriş sistemi için `Email` kullanılmasına karar verildi.
     
-    -Web uygulaması için `Wordpress (Custom HTML5 / Custom CSS3)` kullanılmasına karar verildi.
+    -Web uygulaması için `Wordpress (Custom HTML5 & Custom CSS3)` kullanılmasına karar verildi.
     
     -Güvenlik için `Google reCAPTCHA + WP 2FA` kullanılmasına karar verildi.
     
@@ -134,9 +134,9 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
     
     -Taşınabilir, bağımsız altyapı (özellikle AI modelleriyle çalışırken) `Docker` kullanılmasına karar verildi.
     
-    -Meslek öneri algoritması (sınıflandırma/tavsiye motoru) için `scikit-learn / XGBoost` kullanılmasına karar verildi.
+    -Meslek öneri algoritması (sınıflandırma/tavsiye motoru) için `scikit-learn & XGBoost` kullanılmasına karar verildi.
     
-    -Derin öğrenme ve Veri analizi ve manipülasyonları için `Pandas / NumPy` ve  `TensorFlow / PyTorch` kullanılmasına karar verildi.
+    -Derin öğrenme ve Veri analizi ve manipülasyonları için `Pandas & NumPy` ve  `TensorFlow & PyTorch` kullanılmasına karar verildi.
     
     -Güçlü, ilişkisel veritabanı için `SQL` ve `PostgreSQL` kullanılmasına karar verildi.
     
@@ -175,7 +175,7 @@ Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik 
     
 | ![WhatsApp Image 2025-07-05 at 00 47 59 (1)](https://github.com/user-attachments/assets/05fb5680-016a-405c-8e15-d902d789a901) |![WhatsApp Image 2025-07-05 at 00 47 59](https://github.com/user-attachments/assets/a34b8416-b7d1-4d0e-885a-f298bef1555e)|
 |------------------------|------------------------|
-| wp foto 1             | wp foto 2  
+| WhatsApp Grubu- Ekran Görüntüsü 1 | WhatsApp Grubu- Ekran Görüntüsü 2  
   - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=476687804339 (Miro)
   - **Sprint Review:**
     - Proje için Miro kurulumu yapıldı ve takım görev panosunu oluşturuldu.
@@ -192,31 +192,31 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
     
     - İkinci sprintte ekip toplantısında web sitesi için sadece Melih ve Sude Nur'un kod yazmasına karar verildi.
       
-    - İkinci sprintte Docker ortamının hazırlanması ve konteyner orkestrasyonu yapılmasına karar verdik.
+    - İkinci sprintte `Docker` ortamının hazırlanması ve konteyner orkestrasyonu yapılmasına karar verdik.
     
-    - İkinci sprintte PostgreSQL veritabanının kurulumu, yedekleme & rol ayarlarını yapacağız.
+    - İkinci sprintte `PostgreSQL` veritabanının kurulumu, yedekleme & rol ayarlarını yapacağız.
    
-    - İkinci sprintte WordPress’teki dinamik bölümler için özel JavaScript entegrasyonlarını yapacağız.
+    - İkinci sprintte `WordPress`’de bulunan dinamik bölümler için özel `JavaScript` entegrasyonlarını yapacağız.
    
     - İkinci sprintte Backend Python ortamı (FastAPI) + bağımlılık yönetimi yapılmasıa karar verildi.
    
     - İkinci sprintte REST API köprüsü ve JWT tabanlı güvenli bağlantı kurulmasına karar verildi 
    
-    - İkinci sprintte veri analizi için ilgili kütüphanelerin (Pandas & NumPy) kurulumuna karar verildi.
+    - İkinci sprintte veri analizi için ilgili kütüphanelerin `(Pandas & NumPy)` kurulumuna karar verildi.
     
-    - İkinci sprintte scikit-learn & XGBoost kurulumu + örnek meslek öneri modeli  geliştirilmesine karar verildi.
+    - İkinci sprintte `scikit-learn & XGBoost` kurulumu ve örnek meslek öneri modeli geliştirilmesine karar verildi.
     
-    - İkinci sprintte derin öğrenme ortamı oluşturmak için TensorFlow / PyTorch kullanılmasına karar verildi.
+    - İkinci sprintte derin öğrenme ortamı oluşturmak için `TensorFlow & PyTorch` kullanılmasına karar verildi.
 
-    - İkinci sprintte Holland Test NLP skorlayıcı entegrasyonu yapılmasına karar verildi.
+    - İkinci sprintte kişilik analizi için kullanılacak olan teste karar verilerek NLP skorlayıcı entegrasyonu yapılmasına karar verildi. 
     
     - İkinci sprintte WP User Manager / Ultimate Member eklentisi kurulumuna karar verildi.
 
-    - İkinci sprintte Google reCAPTCHA + WP 2FA güvenlik eklentileri eklenmesine karar verildi.
+    - İkinci sprintte `Google reCAPTCHA + WP 2FA` güvenlik eklentileri eklenmesine karar verildi.
 
-    - İkinci sprintte uygulama girişleri için Nextend Social Login sosyal giriş ayarı yapılmasına karar verildi.
+    - İkinci sprintte uygulama girişleri için `Nextend Social Login` sosyal giriş ayarı yapılmasına karar verildi.
 
-    - İkinci sprintte kişiye özel içerik için ACF + Custom Post Type yapılandırması yapılmasına karar verildi.
+    - İkinci sprintte kişiye özel içerik için `ACF + Custom Post Type` yapılandırması yapılmasına karar verildi.
 
     - İkinci sprint sonunda uygulamanın en az %85'inin bitmesine karar verildi.
 
