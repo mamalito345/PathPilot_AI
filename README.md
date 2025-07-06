@@ -49,12 +49,24 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
     
   </details>
 
-  <details>
-    <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
-      
-            
 
-  </details>
+<details>
+  <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
+
+  ###  Burndown Chart (Kalan İş Grafiği)
+  
+  (![WhatsApp Görsel 2025-07-06 saat 19 05 11_b35282d4](https://github.com/user-attachments/assets/d138278a-dd3a-4d3d-bf84-c16fb6513b00)
+)
+
+  Bu grafik, Sprint 1 süresince takımın ilerlemesini ve kalan iş yükünü göstermektedir. İlk günlerde ilerleme yavaştı, ancak sonraki günlerde artan tempo ile sprint sonunda tüm işler başarıyla tamamlanmıştır.
+
+  - **Gerçek Kalan İş**: Takımın her gün sonunda geriye kalan iş miktarını gösterir.
+  - **İdeal İlerleme**: Her gün eşit miktarda iş tamamlanmış olsaydı nasıl bir azalma olurdu, bunu gösterir.
+
+  (![WhatsApp Görsel 2025-07-06 saat 19 05 11_b35282d4](https://github.com/user-attachments/assets/d138278a-dd3a-4d3d-bf84-c16fb6513b00)
+)
+
+</details>
 
 
   - **Sprint Notları**:
