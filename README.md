@@ -355,7 +355,6 @@ Career Path’in temel hedeflerinden biri, dijital eşitsizlikleri azaltmak, ikl
 
 Tüm bu çabalarımız, bireylerin gelecekte geçerliliğini koruyacak meslekleri keşfetmelerini sağlamak içindir. Böylece her birey, hem kendisi hem de dünya için daha anlamlı ve sürdürülebilir bir kariyer yolculuğuna çıkabilir.
 
-**gelecekte geçerliliğini koruyacak meslekleri** keşfetmelerini sağlamak amaçlanmıştır.
 
 ---
 
