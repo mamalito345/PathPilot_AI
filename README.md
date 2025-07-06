@@ -139,6 +139,10 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
     -Derin öğrenme ve Veri analizi ve manipülasyonları için `Pandas & NumPy` ve  `TensorFlow & PyTorch` kullanılmasına karar verildi.
     
     -Güçlü, ilişkisel veritabanı için `SQL` ve `PostgreSQL` kullanılmasına karar verildi.
+
+    -Kişilik analizi için hâlihazırda kullanılan testlerin incelenmiş olup kullanılacak testin nihai kararı ikinci sprint aşamasına bırakılmıştır.
+
+    -Meslek verilerinin başlıca `O*NET` websitesi üzerinden toplanmasına karar verilmiştir.
     
 
   - **Tahmin Edilen Tamamlanacak Puan**: 200 puan.
@@ -218,7 +222,7 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
 
     - İkinci sprintte kişiye özel içerik için `ACF + Custom Post Type` yapılandırması yapılmasına karar verildi.
 
-    - İkinci sprint sonunda uygulamanın en az %85'inin bitmesine karar verildi.
+    - İkinci sprint sonunda uygulamanın en az %85'inin bitmesine kararlaştırıldı.
 
 
 
@@ -294,7 +298,6 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
     <summary><h3>Sprint 3 - Burndown Chart</h3></summary>
     
   </details>
-
 
   - **Sprint Notes**:
   
