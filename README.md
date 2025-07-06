@@ -51,9 +51,8 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
 
   <details>
     <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
-    |  |
-|------------------------|
-|Tamamlanan iş grafiği             
+      
+            
 
   </details>
 
