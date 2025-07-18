@@ -285,47 +285,79 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
   </details>
     
   - **Sprint Notes**:
+
 •	Meslekler ve yeteneklere ait veritabanı kurulumu, yedekleme ve rol ayarları tamamlandı.
+
 •	Örnek bir meslek öneri modeli geliştirildi.
+
 •	NLP skorlayıcı için kişilik analizi testleri seçildi ve entegrasyon planlandı.
+
 •	Yapay zeka kütüphaneleri (Pandas, NumPy) yüklendi.
+
 •	Backend için FastAPI ortamı kuruldu ve bağımlılık yönetimi yapıldı.
+
 •	WordPress üzerinde özel JavaScript, Html ve Css entegrasyonları uygulandı.
-• Prediction modeli yapmaktan  vazgeçildi yerine embending ile veri tabanı üzerinde arama yapmaya karar verildi. 
+
+• Embending ile veri tabanı üzerinde arama yapmaya karar verildi. 
+
 • Google reCAPTCHA ve WP 2FA ile gelişmiş güvenlik ayarları yapıldı.
+
 •	Nextend Social Login ile sosyal medya üzerinden giriş aktif hale getirildi.
+
 •	ACF + Custom Post Type ile kişiselleştirilmiş içerik gösterimi yapılandırıldı.
+
 •	Uygulamanın genel işleyişi %55 oranında tamamlandı.
 
   - **Tahmin Edilen Tamamlanacak Puan: 200 Puan** 200
   - **Tahmin Mantığı**
+
 Sprint 2’deki görevlerin puanlaması, teknik zorluk, efor yoğunluğu ve proje etkisi dikkate alınarak belirlenmiştir. Google Proje Yönetimi standartlarına uygun olarak görevler aşağıdaki şekilde puanlandırılmıştır.
 
   - **Günlük Scrum**:
+
 •	Belirli aralıklarla Google Meet üzerinden düzenli olarak toplantı yapıldı.
+
 •	WhatsApp grubu üzerinden sürekli ve anlık iletişim sağlandı.
+
 •	Günlük görev takibi Miro üzerinden sürdürüldü.
 <img width="1912" height="885" alt="Meet" src="https://github.com/user-attachments/assets/62925fcc-35c0-4df7-a42c-d40dfa554931" />
 
     
   - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=476687804339 (Miro)
   - **Sprint Review**:
+    
 •	FastAPI backend kurulumu başarıyla tamamlandı.
+
 • Veritabanı kurulumu ve kullanıcı rolleri oluşturularak veri yönetimi hazırlandı.
+
 •	Meslek öneri sistemi için ilk embending ile veri tabanı üzerinde arama yapılmaya başlandı.
+
 •	Giriş sistemleri, kullanıcı yönetimi ve güvenlik ayarları yapılıyor.
+
 •	Kişilik analizi için test seçimi yapıldı ve NLP entegrasyonu planlandı.
+
 •	Uygulamanın %55’i tamamlandı. UI detayları ve son testler Sprint 3'e bırakıldı
 
   - **Sprint Review Participants:** Tuba İlhan Horuz, Duygu Başak Acar, Sude Nur Kömür, Melih Talha Bektaş, Saim Berk Akçeşme
 
   - **Sprint Retrospective:**
+
 •	Teknik görevlerin yoğunluğu nedeniyle kodlama süreci beklenenden daha uzun sürdü.
+
+• Prediction modeli yapmaktan vazgeçildi.
+
+• Daha esnek, ölçeklenebilir ve kullanıcı girdisine göre dinamik sonuçlar üretmek için embending ile veri tabanı üzerinde arama yapmaya karar verildi.
+
 •	Berk ve Sude Nur’un web sitesine odaklanması verimliliği artırdı.
+
 • Melih ve Duygu’nun Ai kısmına odaklanması verimliliği artırdı.
+
 • Miro üzerinden yapılan görev dağılımları görev takibini kolaylaştırdı.
+
 •	Takım içi iletişim kuvvetliydi; bu da sprint sonuna doğru hızlanmamıza yardımcı oldu.
+
 •	İkinci sprintte planlanan görevlerin büyük bir kısmı gerçekleştirildi.
+
 •	Sprint 3’te kullanıcı testleri, NLP skorlayıcının son hali ve UI/UX detaylarının tamamlanması hedeflenecek.
 
 
