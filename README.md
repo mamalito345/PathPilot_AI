@@ -1,5 +1,5 @@
 # CARRER PATH
-<img src="https://github.com/user-attachments/assets/cdf0a44b-c1fc-442d-8143-c9f2375d5b15" alt="career path" width="600"/>
+<img src="https://github.com/user-attachments/assets/cdf0a44b-c1fc-442d-8143-c9f2375d5b15" alt="career path" width="400"/>
 
 ##  Takım Üyeleri
 
@@ -163,7 +163,8 @@ Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçim
     
 
   - **Tahmin Edilen Tamamlanacak Puan**: 200 puan.
-  - **Tahmin Mantığı**: 
+  - **Tahmin Mantığı**:
+  - 
   - Sprint 1 Sonu Tahmin Mantığı
 Sprint 1'de tamamlanan işler ve bu işlere atanan puanlar, Google Proje Yönetimi programı eğitimine uygun olarak, her bir görevin karmaşıklığı, harcanan efor ve proje için taşıdığı önem göz önüne alınarak belirlenmiştir. Toplam 200 puan hedefine ulaşmak için aşağıdaki görevler ve puanlamalar yapılmıştır:
 
@@ -257,7 +258,7 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
     <summary><h1>Sprint 2</h1></summary>
 
 
-  <details>
+ <details>
     <summary><h3>Sprint 2 - Screenshots</h3></summary>
 ### 📊 Sistem ve Uygulama Mimarisi – Görsel Açıklamaları
 
@@ -270,20 +271,19 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
   <details>
     <summary><h3>Sprint 2 - Sprint Board Update Screenshots</h3></summary>
  
-   |![WhatsApp Image 2025-07-06 at 18 44 58](https://github.com/user-attachments/assets/5a914486-9130-444a-8d0c-236df601a884) |![WhatsApp Image 2025-07-06 at 18 45 12](https://github.com/user-attachments/assets/4253c0e3-094a-479b-b9b9-8a04efbfe219)|![WhatsApp Image 2025-07-06 at 18 45 23](https://github.com/user-attachments/assets/ec127648-6509-4f38-834f-d7e682ec7029)|
+   |<img width="1287" height="736" alt="MİRO1" src="https://github.com/user-attachments/assets/6dae80fa-d5c0-43de-aa4d-9fb79d183160" />|<img width="1063" height="660" alt="MİRO2" src="https://github.com/user-attachments/assets/d757018f-4e87-4957-bf29-78f1f48c909d" />|<img width="1232" height="772" alt="MİRO3" src="https://github.com/user-attachments/assets/cb51d943-078b-4ecb-b336-d5585e0eac6c" />|
 |------------------------|------------------------|------------------------|
 |MİRO 1             | MİRO 2                      | MİRO 3  
 
     
   </details>
 
-  </details>
-
+  
   <details>
     <summary><h3>Sprint 2 - Burndown Chart</h3></summary>
     
   </details>
-    
+
   - **Sprint Notes**:
 
 •	Meslekler ve yeteneklere ait veritabanı kurulumu, yedekleme ve rol ayarları tamamlandı.
@@ -308,10 +308,28 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
 
 •	Uygulamanın genel işleyişi %55 oranında tamamlandı.
 
-  - **Tahmin Edilen Tamamlanacak Puan: 200 Puan** 200
+  - **Tahmin Edilen Tamamlanacak Puan: 200 Puan**
   - **Tahmin Mantığı**
 
 Sprint 2’deki görevlerin puanlaması, teknik zorluk, efor yoğunluğu ve proje etkisi dikkate alınarak belirlenmiştir. Google Proje Yönetimi standartlarına uygun olarak görevler aşağıdaki şekilde puanlandırılmıştır.
+Aşağıda Sprint 2 kapsamında tamamlanan görevlerin, teknik zorluk ve proje katkısı dikkate alınarak yapılan puanlaması yer almaktadır:
+
+| Görev Açıklaması                                                                 | Puan |
+|-------------------------------------------------------------------------------------|---------|
+| Meslekler ve yeteneklere ait veritabanı kurulumu, yedekleme ve rol ayarları        | 20      |
+| Örnek meslek öneri modeli geliştirilmesi (AI model temeli)                         | 25      |
+| NLP skorlayıcı için kişilik testi seçimi ve entegrasyon planı                      | 20      |
+| Yapay zeka kütüphanelerinin kurulumu (Pandas, NumPy)                                | 10      |
+| FastAPI backend kurulumu ve bağımlılık yönetimi                                     | 25      |
+| WordPress üzerinde özel JavaScript, HTML ve CSS entegrasyonu                        | 15      |
+| Embedding ile veri tabanı üzerinde semantik arama kararının uygulanması            | 15      |
+| Google reCAPTCHA ve WP 2FA ile güvenlik yapılandırması                              | 15      |
+| Nextend Social Login entegrasyonu (sosyal medya girişleri)                          | 10      |
+| ACF + Custom Post Type ile kişiselleştirilmiş içerik yapısının kurulumu             | 15      |
+| Uygulamanın genel %55’inin tamamlanması ve temel altyapının oturması               | 30      |
+**Toplam Puan: 200**
+
+Bu dağılım, Sprint 2’de hem yazılım altyapısının sağlamlaştırılması, hem de AI ve veri odaklı modüllerin hayata geçirilmesi açısından dengeli bir ilerleme sunulduğunu göstermektedir. **Sprint 2 için hedeflenen puana başarıyla ulaşılmıştır.**
 
   - **Günlük Scrum**:
 
@@ -367,11 +385,11 @@ Sprint 2’deki görevlerin puanlaması, teknik zorluk, efor yoğunluğu ve proj
     <summary><h3>Additional Files</h3></summary>
 
    
-  </details>
+</details>
 
 
-  </details>
-
+  
+ </details>
 
   ---
 <details>
