@@ -1,5 +1,5 @@
 # CARRER PATH
-![carer path](https://github.com/user-attachments/assets/cdf0a44b-c1fc-442d-8143-c9f2375d5b15)
+<img src="https://github.com/user-attachments/assets/cdf0a44b-c1fc-442d-8143-c9f2375d5b15" alt="career path" width="600"/>
 
 ##  Takım Üyeleri
 
@@ -320,7 +320,8 @@ Sprint 2’deki görevlerin puanlaması, teknik zorluk, efor yoğunluğu ve proj
 •	WhatsApp grubu üzerinden sürekli ve anlık iletişim sağlandı.
 
 •	Günlük görev takibi Miro üzerinden sürdürüldü.
-<img width="1912" height="885" alt="Meet" src="https://github.com/user-attachments/assets/62925fcc-35c0-4df7-a42c-d40dfa554931" />
+
+<img width="650" height="442" alt="Meet" src="https://github.com/user-attachments/assets/62925fcc-35c0-4df7-a42c-d40dfa554931" />
 
     
   - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=476687804339 (Miro)
