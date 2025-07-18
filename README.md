@@ -245,7 +245,7 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
 
     - İkinci sprintte kişiye özel içerik için `ACF + Custom Post Type` yapılandırması yapılmasına karar verildi.
 
-    - İkinci sprint sonunda uygulamanın en az %85'inin bitmesine kararlaştırıldı.
+    - İkinci sprint sonunda uygulamanın en az %50'sinin bitmesine kararlaştırıldı.
 
 
 
@@ -259,12 +259,19 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
 
   <details>
     <summary><h3>Sprint 2 - Screenshots</h3></summary>
-   
+  
   </details>  
 
   <details>
     <summary><h3>Sprint 2 - Sprint Board Update Screenshots</h3></summary>
-   
+ 
+  | |||
+|------------------------|------------------------|------------------------|
+|MİRO 1             | MİRO 2                      | MİRO 3  
+
+    
+  </details>
+
   </details>
 
   <details>
