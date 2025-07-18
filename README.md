@@ -259,16 +259,18 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
 
   <details>
     <summary><h3>Sprint 2 - Screenshots</h3></summary>
+### 📊 Sistem ve Uygulama Mimarisi – Görsel Açıklamaları
 
-    
-|Sistem Algoritması            | Veritabanı işlemleri                      | Veritabanı işlemleri    
+|![WhatsApp Image 2025-07-18 at 22 04 50](https://github.com/user-attachments/assets/587dfe22-f938-446d-81df-163414933cc0)|![WhatsApp Image 2025-07-18 at 22 01 13](https://github.com/user-attachments/assets/b3649ec6-03bd-489b-a77e-330416880048)|![WhatsApp Image 2025-07-18 at 22 00 08](https://github.com/user-attachments/assets/1e3b50a5-b065-4940-89a6-c8a2c01c8399)|
+|:--:|:--:|:--:|
+| **Sistem Algoritması**: Kullanıcının giriş yapmasından öneri almasına kadar olan tüm süreç akışını gösterir. | **Veritabanı İşlemleri 1**: Kullanıcı bilgileri ve test sonuçlarının veritabanı üzerinde tutulduğu yapıyı gösterir. | **Veritabanı İşlemleri 2**: Rol bazlı erişim ve veri yedekleme süreçlerini detaylandırır. |
 
   </details>  
 
   <details>
     <summary><h3>Sprint 2 - Sprint Board Update Screenshots</h3></summary>
  
-  | |||
+   |![WhatsApp Image 2025-07-06 at 18 44 58](https://github.com/user-attachments/assets/5a914486-9130-444a-8d0c-236df601a884) |![WhatsApp Image 2025-07-06 at 18 45 12](https://github.com/user-attachments/assets/4253c0e3-094a-479b-b9b9-8a04efbfe219)|![WhatsApp Image 2025-07-06 at 18 45 23](https://github.com/user-attachments/assets/ec127648-6509-4f38-834f-d7e682ec7029)|
 |------------------------|------------------------|------------------------|
 |MİRO 1             | MİRO 2                      | MİRO 3  
 
