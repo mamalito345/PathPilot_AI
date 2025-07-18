@@ -307,8 +307,8 @@ Sprint 2’deki görevlerin puanlaması, teknik zorluk, efor yoğunluğu ve proj
 •	Günlük görev takibi Miro üzerinden sürdürüldü.
 <img width="1912" height="885" alt="Meet" src="https://github.com/user-attachments/assets/62925fcc-35c0-4df7-a42c-d40dfa554931" />
 
-  - 
-  - **Product Backlog URL:** 
+    
+  - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=476687804339 (Miro)
   - **Sprint Review**:
 •	FastAPI backend kurulumu başarıyla tamamlandı.
 • Veritabanı kurulumu ve kullanıcı rolleri oluşturularak veri yönetimi hazırlandı.
