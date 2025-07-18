@@ -281,6 +281,18 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
   
   <details>
     <summary><h3>Sprint 2 - Burndown Chart</h3></summary>
+    <img width="500" height="200" alt="GRAFİK" src="https://github.com/user-attachments/assets/7287a33f-eb37-48d2-ad1c-1cd2185fb322" />
+
+    
+    Yukarıdaki grafik, Sprint 2'nin toplam 200 puanı üzerinden oluşturulmuş güncel ve anlaşılır bir burndown grafiğidir. 
+    
+    Kırmızı kesikli çizgi (İdeal Burndown): Her gün eşit ilerleme varsayımıyla hazırlanmıştır.
+    
+    Mavi çizgi (Gerçek Burndown): Gerçek görev tamamlama hızını gösterir.
+    
+    Açık mavi alan: İdeal ve gerçek burndown arasındaki farkı vurgular, zaman yönetimini analiz etmede kullanılır.
+
+
     
   </details>
 
