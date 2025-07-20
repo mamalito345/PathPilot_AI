@@ -262,9 +262,11 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
     <summary><h3>Sprint 2 - Screenshots</h3></summary>
 ### 📊 Sistem ve Uygulama Mimarisi – Görsel Açıklamaları
 
-|![WhatsApp Image 2025-07-18 at 22 04 50](https://github.com/user-attachments/assets/587dfe22-f938-446d-81df-163414933cc0)|![WhatsApp Image 2025-07-18 at 22 01 13](https://github.com/user-attachments/assets/b3649ec6-03bd-489b-a77e-330416880048)|![WhatsApp Image 2025-07-18 at 22 00 08](https://github.com/user-attachments/assets/1e3b50a5-b065-4940-89a6-c8a2c01c8399)|
+|![WhatsApp Image 2025-07-18 at 22 04 50](https://github.com/user-attachments/assets/587dfe22-f938-446d-81df-163414933cc0)|![WhatsApp Image 2025-07-18 at 22 01 13](https://github.com/user-attachments/assets/b3649ec6-03bd-489b-a77e-330416880048)|![WhatsApp Image 2025-07-18 at 22 00 08](https://github.com/user-attachments/assets/1e3b50a5-b065-4940-89a6-c8a2c01c8399)| 
 |:--:|:--:|:--:|
 | **Sistem Algoritması**: Kullanıcının giriş yapmasından öneri almasına kadar olan tüm süreç akışını gösterir. | **Veritabanı İşlemleri 1**: Kullanıcı bilgileri ve test sonuçlarının veritabanı üzerinde tutulduğu yapıyı gösterir. | **Veritabanı İşlemleri 2**: Rol bazlı erişim ve veri yedekleme süreçlerini detaylandırır. |
+|![WhatsApp Image 2025-07-20 at 14 59 51](https://github.com/user-attachments/assets/b6734788-9a62-44a4-8a03-a0cc36688e74)|![WhatsApp Image 2025-07-20 at 14 47 19](https://github.com/user-attachments/assets/27c42822-9c26-4f0f-a166-564d91f5ae05)|![WhatsApp Image 2025-07-20 at 14 47 20 (1)](https://github.com/user-attachments/assets/06de4256-a7c9-4507-8e92-c614c0199e74)|
+| **Web sitesi İşlemleri 1** | **Web sitesi İşlemleri 2** | **Web sitesi İşlemleri 3**|
 
   </details>  
 
