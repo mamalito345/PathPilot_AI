@@ -266,7 +266,7 @@ Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığım
 |:--:|:--:|:--:|
 | **Sistem Algoritması**: Kullanıcının giriş yapmasından öneri almasına kadar olan tüm süreç akışını gösterir. | **Veritabanı İşlemleri 1**: Kullanıcı bilgileri ve test sonuçlarının veritabanı üzerinde tutulduğu yapıyı gösterir. | **Veritabanı İşlemleri 2**: Rol bazlı erişim ve veri yedekleme süreçlerini detaylandırır. |
 |![WhatsApp Image 2025-07-20 at 14 59 51](https://github.com/user-attachments/assets/b6734788-9a62-44a4-8a03-a0cc36688e74)|![WhatsApp Image 2025-07-20 at 14 47 19](https://github.com/user-attachments/assets/27c42822-9c26-4f0f-a166-564d91f5ae05)|![WhatsApp Image 2025-07-20 at 14 47 20 (1)](https://github.com/user-attachments/assets/06de4256-a7c9-4507-8e92-c614c0199e74)|
-| **Web sitesi İşlemleri 1** | **Web sitesi İşlemleri 2** | **Web sitesi İşlemleri 3**|
+| **Web Uygulaması 1** | **Web Uygulaması  2** | **Web Uygulaması 3**|
 
   </details>  
 
