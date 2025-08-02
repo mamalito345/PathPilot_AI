@@ -98,7 +98,7 @@ Today's young people are choosing not just a profession, but also a lifestyle, a
 
  
 ---
-#  Sprintler
+# Sprints
 
 
 <details>
@@ -123,78 +123,78 @@ Today's young people are choosing not just a profession, but also a lifestyle, a
   ![WhatsApp Görsel 2025-07-06 saat 19 05 11_b35282d4](https://github.com/user-attachments/assets/d138278a-dd3a-4d3d-bf84-c16fb6513b00)
 
 
-  Bu grafik, Sprint 1 süresince takımın ilerlemesini ve kalan iş yükünü göstermektedir. İlk günlerde ilerleme yavaş olmasına rağmen sonraki günlerde artan tempo ile sprint sonunda tüm işler başarıyla tamamlanmıştır.
+  This chart shows the team's progress and remaining workload during Sprint 1. Although progress was slow in the first days, the pace increased in the following days, and all work was successfully completed by the end of the sprint.
 
-  - Gerçek Kalan İş: Takımın her gün sonunda geriye kalan iş miktarını gösterir.
-  - İdeal İlerleme: Her gün eşit miktarda iş tamamlanmış olsaydı nasıl bir azalma olurdu, bunu gösterir.
-
+ - Actual Remaining Work: Shows the amount of work remaining for the team at the end of each day.
+ - Ideal Progress: Shows what the reduction would be if an equal amount of work were completed each day.
 
 
 </details>
 
 
-  - **Sprint Notları**:
+  - **Sprint Notes**:
     
-    -Proje yönetimi için `Miro` kullanılmasına karar verildi. Miro teması Tuba İlhan Horuz tarafından oluşturuldu.
-    
-    -Githup repo linki açılmasına karar verildi. Melih Aktaş tarafından Githup Repo oluşturuldu.
-    
-    -Giriş sistemi için `Email` kullanılmasına karar verildi.
-    
-    -Web uygulaması için `Wordpress (Custom HTML5 & Custom CSS3)` kullanılmasına karar verildi.
-    
-    -Güvenlik için `Google reCAPTCHA + WP 2FA` kullanılmasına karar verildi.
-    
-    -Sosyal hesaplardan giriş yapılabilmesi için `Nextend Social Login` kullanılmasına karar verildi.
-    
-    -Yapay zeka entegrasyonu `Python API + REST API` bağlantısı (JWT ile güvenli) kullanılmasına karar verildi.
-    
-    -Taşınabilir, bağımsız altyapı (özellikle AI modelleriyle çalışırken) `Docker` kullanılmasına karar verildi.
-    
-    -Meslek öneri algoritması (sınıflandırma/tavsiye motoru) için `scikit-learn & XGBoost` kullanılmasına karar verildi.
-    
-    -Derin öğrenme ve Veri analizi ve manipülasyonları için `Pandas & NumPy` ve  `TensorFlow & PyTorch` kullanılmasına karar verildi.
-    
-    -Güçlü, ilişkisel veritabanı için `SQL` ve `PostgreSQL` kullanılmasına karar verildi.
+    -It was decided to use `Miro` for project management. The Miro theme was created by Tuba İlhan Horuz.    
 
-    -Kişilik analizi için hâlihazırda kullanılan testlerin incelenmiş olup kullanılacak testin nihai kararı ikinci sprint aşamasına bırakılmıştır.
+    -It was decided to open a GitHup repo link. The Githup repo was created by Melih Aktaş.
 
-    -Meslek verilerinin başlıca `O*NET` websitesi üzerinden toplanmasına karar verilmiştir.
+    -It was decided to use `Email` for the login system.
+
+    -It was decided to use `Wordpress (Custom HTML5 & Custom CSS3)` for the web application.
+    
+    -For security, it was decided to use `Google reCAPTCHA + WP 2FA`.
+
+    -For social login, it was decided to use `Nextend Social Login`.
+
+    -For artificial intelligence integration, it was decided to use `Python API + REST API (secured with JWT)`.
+
+    -For portable, independent infrastructure (especially when working with AI models), it was decided to use `Docker`.
+
+    -For the career recommendation algorithm (classification/recommendation engine), it was decided to use `scikit-learn & XGBoost`.
+
+    -For deep learning and data analysis and manipulation, it was decided to use `Pandas & NumPy` and `TensorFlow & PyTorch`.
+
+    -For powerful relational databases, it was decided to use `SQL` and `PostgreSQL`.
+
+    -The tests currently used for personality analysis were reviewed, and the final decision on which test to use was left to the second sprint phase.
+
+    -It was decided that occupational data would be collected primarily through the `O*NET` website.
     
 
-  - **Tahmin Edilen Tamamlanacak Puan**: 200 puan.
-  - **Tahmin Mantığı**:
+  - **Estimated Score to Complete**: 200 points.
+  - **Prediction Logic**:
   - 
-  - Sprint 1 Sonu Tahmin Mantığı
-Sprint 1'de tamamlanan işler ve bu işlere atanan puanlar, Google Proje Yönetimi programı eğitimine uygun olarak, her bir görevin karmaşıklığı, harcanan efor ve proje için taşıdığı önem göz önüne alınarak belirlenmiştir. Toplam 200 puan hedefine ulaşmak için aşağıdaki görevler ve puanlamalar yapılmıştır:
+  - End of Sprint 1 Estimation Logic
+The tasks completed in Sprint 1 and the points assigned to them were determined in accordance with Google Project Management training, taking into account each task's complexity, effort, and importance to the project. To achieve the 200-point total, the following tasks and points were assigned:
 
-Tamamlanan Görevler ve Puan Dağılımı:
+Completed Tasks and Point Distribution:
 
-Miro Kurulumu ve Görev Panosu Oluşturma: 25 Puan
+Installing Miro and Creating a Task Board: 25 Points
 
-Proje Dosyası Ön Hazırlığı ve Güncellemeler: 35 Puan
+Preliminary Project File Preparation and Updates: 35 Points
 
-Githup Repo Oluşturma: 20 Puan
+Creating a GitHub Repo: 20 Points
 
-Uygulama ve Takım Adı Kararı: 20 Puan
+Deciding on the Application and Team Name: 20 Points
 
-Logo ve Slogan Oluşturma: 30 Puan
+Creating a Logo and Slogan: 30 Points
 
-WordPress Kurulumu ve Tema Seçimi: 40 Puan
+WordPress Installation and Theme Selection: 40 Points
 
-WhatsApp Grubu ve WhatsApp Topluluğu Oluşturma, Dosya Yedekleme: 15 Puan
+Creating a WhatsApp Group and Community, File Backup: 15 Points
 
-Takım Toplantıları ve Aktif İletişim: 15 Puan
+Team Meetings and Active Communication: 15 Points
 
-Toplam Puan: 25+35+20+20+30+40+15+15=200 Puan.
+Total Points: 25 + 35 + 20 + 20 + 30 + 40 + 15 + 15 = 200 Points.
 
-Hedef Puan:200 Puan.
+Target Point: 200 Points.
 
-Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik görevlerin ağırlığını yansıtmaktadır. **Sprint 1 için hedeflenen puana ulaşılmıştır.**
+This score reflects the weight of the core organizational and initial technical tasks completed in Sprint 1. **Target score for Sprint 1 has been achieved.**
 
-  - **Günlük Scrum**:
-  - Her gün Google Meet üzerinden toplantılar yapılmıştır.
-  - WhatsApp grubu üzerinden aktif olarak iletişim halinde kalınmıştır.
+  - **Daily Scrum**:
+  
+  - Meetings were held daily via Google Meet.
+  - Active communication was maintained via the WhatsApp group.
   - ![WhatsApp Görsel 2025-07-06 saat 17 08 47_06d228fc](https://github.com/user-attachments/assets/3ba3a87a-552a-4f10-a6fb-ea7f5ba243a9)
 
     
@@ -203,50 +203,50 @@ Bu puanlama, Sprint 1'de tamamlanan temel organizasyonel ve başlangıç teknik 
 | WhatsApp Grubu- Ekran Görüntüsü 1 | WhatsApp Topluluğu- Ekran Görüntüsü 2  
   - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=476687804339 (Miro)
   - **Sprint Review:**
-    - Proje için Miro kurulumu yapıldı ve takım görev panosunu oluşturuldu.
-    - Proje dosyasının ön hazırlığını yaptık ve proje üzerinde güncellemeler gerçekleştirdik.
-    - Uygulama adı konusunda karar vermekte zorlandık. 'PathPilotAI' ve 'CAREERPATH' arasında çok kararsız kaldık ve takım adını  'PathPilotAI' proje ismini ise 'CAREERPATH' olarak seçtik ve markalaşmaya doğru bir adım daha attık.
-    - Renk paletine karar verememiş ve henüz logoyu tamamlamamıştık.
-    - Tuba İlhan Horuz tarafından logo ve slogan oluşturdu.
-    - Melih Talha Aktaş tarafından WordPress kurulumunu ve tema seçimi yapıldı.
-    - Meslekler hakkında kullanılacak verilerin başlıca O*NET sitesinden toplanmasına karar verildi.
-    - Halihazırda kullanılan kişilik testleri araştırıldı.
+    - Miro was installed for the project and the team task board was created.
+    - We prepared the project file and made updates to it.
+    - We had difficulty deciding on an application name. We were torn between 'PathPilotAI' and 'CAREERPATH', so we chose the team name 'PathPilotAI' and the project name 'CAREERPATH', taking another step towards branding.
+    - We hadn't decided on a color palette and hadn't yet finalized the logo.
+    - Tuba İlhan Horuz created the logo and slogan.
+    - Melih Talha Aktaş installed WordPress and selected the theme.
+    - It was decided that the data to be used about professions would be collected from the O*NET website.
+    - We researched existing personality tests.
 
-Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımız gibi bir sprint süreci yaşadık. Takımımız sonradan kurulan bir takım olduğu için bir haftada tüm planlamamızı yapabilmek için her gün Google meet üzerinden toplantılar yaptık. Whatsapp grubumuzdan aktif olarak sürekli iletişim kurduk.  Oluşturulan döküman ve çalışma dosyalarını yedeklemek amacıyla gruba ait bir WhatsApp topluluğu oluşturduk.
+Overall, we believe we had a good sprint process. The sprint process was as planned. Because our team was formed later, we held daily Google Meet meetings to complete all our planning within a week. We actively communicated through our WhatsApp group. We created a WhatsApp community for the group to back up documents and work files.
 
 
   - **Sprint Review Participants:** `Tuba İlhan Horuz`, `Duygu Başak Acar`, `Sude Nur Kömür`, `Melih Talha Bektaş`, `Saim Berk Akçeşme`
   - **Sprint Retrospective:**
     
-    - İkinci sprintte ekip toplantısında web sitesi için sadece Melih ve Sude Nur'un kod yazmasına karar verildi.
-      
-    - İkinci sprintte `Docker` ortamının hazırlanması ve konteyner orkestrasyonu yapılmasına karar verdik.
-    
-    - İkinci sprintte `PostgreSQL` veritabanının kurulumu, yedekleme & rol ayarlarını yapacağız.
-   
-    - İkinci sprintte `WordPress`’de bulunan dinamik bölümler için özel `JavaScript` entegrasyonlarını yapacağız.
-   
-    - İkinci sprintte Backend Python ortamı (FastAPI) + bağımlılık yönetimi yapılmasıa karar verildi.
-   
-    - İkinci sprintte REST API köprüsü ve JWT tabanlı güvenli bağlantı kurulmasına karar verildi 
-   
-    - İkinci sprintte veri analizi için ilgili kütüphanelerin `(Pandas & NumPy)` kurulumuna karar verildi.
-    
-    - İkinci sprintte `scikit-learn & XGBoost` kurulumu ve örnek meslek öneri modeli geliştirilmesine karar verildi.
-    
-    - İkinci sprintte derin öğrenme ortamı oluşturmak için `TensorFlow & PyTorch` kullanılmasına karar verildi.
+    - At the team meeting in the second sprint, it was decided that only Melih and Sude Nur would write code for the website.
 
-    - İkinci sprintte kişilik analizi için kullanılacak olan teste karar verilerek NLP skorlayıcı entegrasyonu yapılmasına karar verildi. 
-    
-    - İkinci sprintte WP User Manager  Ultimate Member eklentisi kurulumuna karar verildi.
+    - In the second sprint, we decided to prepare the Docker environment and perform container orchestration.
 
-    - İkinci sprintte `Google reCAPTCHA + WP 2FA` güvenlik eklentileri eklenmesine karar verildi.
+    - In the second sprint, we will install the PostgreSQL database, perform backups, and configure roles.
 
-    - İkinci sprintte uygulama girişleri için `Nextend Social Login` sosyal giriş ayarı yapılmasına karar verildi.
+    - In the second sprint, we will implement custom JavaScript integrations for dynamic sections in WordPress.
 
-    - İkinci sprintte kişiye özel içerik için `ACF + Custom Post Type` yapılandırması yapılmasına karar verildi.
+    - In the second sprint, we decided to implement a Backend Python environment (FastAPI) and dependency management.
 
-    - İkinci sprint sonunda uygulamanın en az %50'sinin bitmesine kararlaştırıldı.
+    - In the second sprint, we decided to establish a REST API bridge and a JWT-based secure connection.
+
+    - In the second sprint, we decided to install the relevant libraries (Pandas & NumPy) for data analysis.
+
+    - In the second sprint, we decided to install scikit-learn & XGBoost and develop a sample career recommendation model.
+
+    - It was decided to use `TensorFlow & PyTorch` to create a deep learning environment in the second sprint.
+
+    - In the second sprint, it was decided to implement the test to be used for personality analysis and integrate an NLP scorer.
+
+    - In the second sprint, it was decided to install the WP User Manager Ultimate Member plugin.
+
+    - In the second sprint, it was decided to add the Google reCAPTCHA + WP 2FA security plugins.
+
+    - In the second sprint, it was decided to configure Next Social Login for application logins.
+
+    - In the second sprint, it was decided to configure ACF + Custom Post Type for personalized content.
+
+    - It was decided that the application would be at least 50% complete by the end of the second sprint.
 
 
 
