@@ -7,7 +7,7 @@
 <table>
   <tr>
     <th>Fotoğraf</th>
-    <th>İsim</th>
+    <th>Name</th>
     <th>Pozisyon</th>
     <th>Sosyal Medya</th>
   </tr>
