@@ -1,15 +1,15 @@
 # CARRER PATH
 <img src="https://github.com/user-attachments/assets/cdf0a44b-c1fc-442d-8143-c9f2375d5b15" alt="career path" width="400"/>
 
-##  Takım Üyeleri
+## Team Members
 
 
 <table>
   <tr>
-    <th>Fotoğraf</th>
+    <th>Photo</th>
     <th>Name</th>
-    <th>Pozisyon</th>
-    <th>Sosyal Medya</th>
+    <th>Position</th>
+    <th>Social Media</th>
   </tr>
 
   <tr>
@@ -83,18 +83,18 @@
   </tr>
 </table>
 
-# Veriye Dayalı Kariyer Keşfi – Geleceğini Büyük Verilerle Tasarla 
+# Data-Driven Career Exploration – Design Your Future with Big Data 
 
-Bu proje, lise son sınıf öğrencilerinin **büyük veri**, **öğrenme mühendisliği** ve **yapay zeka** desteği ile meslek seçim süreçlerini bilinçli şekilde gerçekleştirmelerine olanak tanıyan bir kariyer keşif platformudur.
+This project is a career discovery platform that allows high school seniors to consciously make their career choices with the support of **big data**, **learning engineering** and **artificial intelligence**.
 
 ---
-**Career Path Nedir?**
+**What is Career Path?**
 
-Career Path, genç bireylerin gelecekteki mesleklerini seçerken yalnızca kendi ilgi ve yeteneklerine değil, aynı zamanda toplumsal ihtiyaçlara, ekonomik sürdürülebilirliğe ve çevresel etkilere de duyarlı kararlar almalarını destekleyen bir platformdur.
+Career Path is a platform that supports young individuals in making decisions that are sensitive not only to their own interests and abilities but also to societal needs, economic sustainability and environmental impacts when choosing their future careers.
 
-**Yeni Nesil Kariyer Anlayışı**
+**New Generation Career Approach**
 
-Bugünün gençleri yalnızca bir meslek değil, aynı zamanda bir yaşam biçimi, bir değer seti ve bir etki alanı seçiyor. Geleceğin mesleklerini şekillendiren en önemli faktörlerin başında çevresel krizler, dijital dönüşüm ve iş gücündeki yapısal değişim geliyor. Career Path olarak biz de bu gerçekliğin farkında olarak hareket ediyoruz.
+Today's young people are choosing not just a profession, but also a lifestyle, a set of values, and a sphere of influence. Environmental crises, digital transformation, and structural changes in the workforce are among the most important factors shaping the professions of the future. At Career Path, we act with awareness of this reality.
 
  
 ---
