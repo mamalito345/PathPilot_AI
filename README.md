@@ -200,7 +200,7 @@ This score reflects the weight of the core organizational and initial technical 
     
 | ![WhatsApp Image 2025-07-05 at 00 47 59 (1)](https://github.com/user-attachments/assets/05fb5680-016a-405c-8e15-d902d789a901) |![WhatsApp Image 2025-07-06 at 17 39 54](https://github.com/user-attachments/assets/9dc1c78a-6f1e-4c1a-b69c-8eb8521d9eec)|
 |------------------------|------------------------|
-| WhatsApp Grubu- Ekran Görüntüsü 1 | WhatsApp Topluluğu- Ekran Görüntüsü 2  
+| WhatsApp Group - Screenshot 1 | WhatsApp Community- Screenshot 2
   - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=476687804339 (Miro)
   - **Sprint Review:**
     - Miro was installed for the project and the team task board was created.
@@ -260,13 +260,13 @@ Overall, we believe we had a good sprint process. The sprint process was as plan
 
  <details>
     <summary><h3>Sprint 2 - Screenshots</h3></summary>
-### 📊 Sistem ve Uygulama Mimarisi – Görsel Açıklamaları
-
+### 📊 System and Application Architecture – Visual Descriptions
+   
 |![WhatsApp Image 2025-07-18 at 22 04 50](https://github.com/user-attachments/assets/587dfe22-f938-446d-81df-163414933cc0)|![WhatsApp Image 2025-07-18 at 22 01 13](https://github.com/user-attachments/assets/b3649ec6-03bd-489b-a77e-330416880048)|![WhatsApp Image 2025-07-18 at 22 00 08](https://github.com/user-attachments/assets/1e3b50a5-b065-4940-89a6-c8a2c01c8399)| 
 |:--:|:--:|:--:|
-| **Sistem Algoritması**: Kullanıcının giriş yapmasından öneri almasına kadar olan tüm süreç akışını gösterir. | **Veritabanı İşlemleri 1**: Kullanıcı bilgileri ve test sonuçlarının veritabanı üzerinde tutulduğu yapıyı gösterir. | **Veritabanı İşlemleri 2**: Rol bazlı erişim ve veri yedekleme süreçlerini detaylandırır. |
+| **System Algorithm**: It shows the entire process flow from the user's login to receiving recommendations. | **Database Operations 1**: It shows the structure where user information and test results are kept in the database. | **Database Operations 2**:It details role-based access and data backup processes. |
 |![WhatsApp Image 2025-07-20 at 14 59 51](https://github.com/user-attachments/assets/b6734788-9a62-44a4-8a03-a0cc36688e74)|![WhatsApp Image 2025-07-20 at 14 47 19](https://github.com/user-attachments/assets/27c42822-9c26-4f0f-a166-564d91f5ae05)|![WhatsApp Image 2025-07-20 at 14 47 20 (1)](https://github.com/user-attachments/assets/06de4256-a7c9-4507-8e92-c614c0199e74)|
-| **Web Uygulaması 1** | **Web Uygulaması  2** | **Web Uygulaması 3**|
+| **Web Application 1** | **Web Application 2** | **Web Application 3**|
 
   </details>  
 
@@ -286,13 +286,13 @@ Overall, we believe we had a good sprint process. The sprint process was as plan
     <img width="500" height="200" alt="GRAFİK" src="https://github.com/user-attachments/assets/7287a33f-eb37-48d2-ad1c-1cd2185fb322" />
 
     
-  Yukarıdaki grafik, Sprint 2'nin toplam 200 puanı üzerinden oluşturulmuş güncel ve anlaşılır bir burndown grafiğidir. 
-    
-  Kırmızı kesikli çizgi (İdeal Burndown): Her gün eşit ilerleme varsayımıyla hazırlanmıştır.
-   
-  Mavi çizgi (Gerçek Burndown): Gerçek görev tamamlama hızını gösterir.
-    
-  Açık mavi alan: İdeal ve gerçek burndown arasındaki farkı vurgular, zaman yönetimini analiz etmede kullanılır.
+  The graph above is an up-to-date and comprehensive burndown chart based on Sprint 2's total of 200 points.
+
+  Red dashed line (Ideal Burndown): This is based on the assumption of equal progress each day.
+
+  Blue line (Actual Burndown): This shows the actual task completion rate.
+
+  Light blue area: This highlights the difference between ideal and actual burndown and is used to analyze time management.
 
 
     
@@ -300,58 +300,60 @@ Overall, we believe we had a good sprint process. The sprint process was as plan
 
   - **Sprint Notes**:
 
-•	Meslekler ve yeteneklere ait veritabanı kurulumu, yedekleme ve rol ayarları tamamlandı.
+• Database installation, backup, and role settings for professions and skills have been completed.
 
-•	Örnek bir meslek öneri modeli geliştirildi.
+• A sample career recommendation model has been developed.
 
-•	NLP skorlayıcı için kişilik analizi testleri seçildi ve entegrasyon planlandı.
+• Personality analysis tests have been selected for the NLP scorer, and integration has been planned.
 
-•	Yapay zeka kütüphaneleri (Pandas, NumPy) yüklendi.
+• Artificial intelligence libraries (Pandas, NumPy) have been installed.
 
-•	Backend için FastAPI ortamı kuruldu ve bağımlılık yönetimi yapıldı.
+• The FastAPI environment for the backend has been established, and dependency management has been completed.
 
-•	WordPress üzerinde özel JavaScript, Html ve Css entegrasyonları uygulandı.
+• Custom JavaScript, HTML, and CSS integrations have been implemented in WordPress.
 
-• Embending ile veri tabanı üzerinde arama yapmaya karar verildi. 
+• The decision to search the database using embeds has been made.
 
-• Google reCAPTCHA ve WP 2FA ile gelişmiş güvenlik ayarları yapıldı.
+• Advanced security settings have been implemented with Google reCAPTCHA and WP 2FA.
 
-•	Nextend Social Login ile sosyal medya üzerinden giriş aktif hale getirildi.
+• Social media login has been enabled with Nextend Social Login.
 
-•	ACF + Custom Post Type ile kişiselleştirilmiş içerik gösterimi yapılandırıldı.
+• Personalized content display has been configured with ACF + Custom Post Type.
 
-•	Uygulamanın genel işleyişi %55 oranında tamamlandı.
+• The overall functionality of the application is 55% complete.
 
-  - **Tahmin Edilen Tamamlanacak Puan: 200 Puan**
-  - **Tahmin Mantığı**
 
-Sprint 2’deki görevlerin puanlaması, teknik zorluk, efor yoğunluğu ve proje etkisi dikkate alınarak belirlenmiştir. Google Proje Yönetimi standartlarına uygun olarak görevler aşağıdaki şekilde puanlandırılmıştır.
-Aşağıda Sprint 2 kapsamında tamamlanan görevlerin, teknik zorluk ve proje katkısı dikkate alınarak yapılan puanlaması yer almaktadır:
+  - **Estimated Score to Complete: 200 Points**
+  - **Prediction Logic**
 
-| Görev Açıklaması                                                                 | Puan |
+ The scoring of tasks in Sprint 2 was determined by considering technical difficulty, effort intensity, and project impact. Tasks were scored as follows, in accordance with Google Project Management standards.
+ Below is the scoring of tasks completed in Sprint 2, based on technical difficulty and project contribution:
+
+| Quest Description                                                                | Point |
 |-------------------------------------------------------------------------------------|---------|
-| Meslekler ve yeteneklere ait veritabanı kurulumu, yedekleme ve rol ayarları        | 20      |
-| Örnek meslek öneri modeli geliştirilmesi (AI model temeli)                         | 25      |
-| NLP skorlayıcı için kişilik testi seçimi ve entegrasyon planı                      | 20      |
-| Yapay zeka kütüphanelerinin kurulumu (Pandas, NumPy)                                | 10      |
-| FastAPI backend kurulumu ve bağımlılık yönetimi                                     | 25      |
-| WordPress üzerinde özel JavaScript, HTML ve CSS entegrasyonu                        | 15      |
-| Embedding ile veri tabanı üzerinde semantik arama kararının uygulanması            | 15      |
-| Google reCAPTCHA ve WP 2FA ile güvenlik yapılandırması                              | 15      |
-| Nextend Social Login entegrasyonu (sosyal medya girişleri)                          | 10      |
-| ACF + Custom Post Type ile kişiselleştirilmiş içerik yapısının kurulumu             | 15      |
-| Uygulamanın genel %55’inin tamamlanması ve temel altyapının oturması               | 30      |
-**Toplam Puan: 200**
+| Database setup, backup, and role settings for professions and skills                 | 20 |
+| Developing a sample career recommendation model (AI model basis)                   | 25 |
+| Personality test selection and integration plan for the NLP scorer               | 20 |
+| Installation of artificial intelligence libraries (Pandas, NumPy)                   | 10 |
+| FastAPI backend installation and dependency management                             | 25 |
+| Custom JavaScript, HTML, and CSS integration on WordPress                           | 15 |
+| Implementation of semantic search functionality on the database with embedding       | 15 |
+| Security configuration with Google reCAPTCHA and WP 2FA                             | 15 |
+| Nextend Social Login integration (social media logins)                           | 10 |
+| Setup of personalized content structure with ACF + Custom Post Type               |   15 |
+| 55% completion of the application and implementation of the core infrastructure     | 30 |
+**Total Points: 200**
 
-Bu dağılım, Sprint 2’de hem yazılım altyapısının sağlamlaştırılması, hem de AI ve veri odaklı modüllerin hayata geçirilmesi açısından dengeli bir ilerleme sunulduğunu göstermektedir. **Sprint 2 için hedeflenen puana başarıyla ulaşılmıştır.**
+This distribution shows that balanced progress was made in Sprint 2 in terms of both consolidating the software infrastructure and implementing AI and data-driven modules.
+**The target score for Sprint 2 has been successfully achieved.**
 
-  - **Günlük Scrum**:
+  - **Daily Scrum**:
 
-•	Belirli aralıklarla Google Meet üzerinden düzenli olarak toplantı yapıldı.
+• Regular meetings were held via Google Meet at regular intervals.
 
-•	WhatsApp grubu üzerinden sürekli ve anlık iletişim sağlandı.
+• Continuous and instant communication was maintained via the WhatsApp group.
 
-•	Günlük görev takibi Miro üzerinden sürdürüldü.
+• Daily task tracking was maintained via Miro.
 
 <img width="650" height="442" alt="Meet" src="https://github.com/user-attachments/assets/62925fcc-35c0-4df7-a42c-d40dfa554931" />
 
@@ -359,39 +361,40 @@ Bu dağılım, Sprint 2’de hem yazılım altyapısının sağlamlaştırılmas
   - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=476687804339 (Miro)
   - **Sprint Review**:
     
-•	FastAPI backend kurulumu başarıyla tamamlandı.
 
-• Veritabanı kurulumu ve kullanıcı rolleri oluşturularak veri yönetimi hazırlandı.
+• FastAPI backend installation has been successfully completed.
 
-•	Meslek öneri sistemi için ilk embending ile veri tabanı üzerinde arama yapılmaya başlandı.
+• Database installation and user roles have been created, preparing for data management.
 
-•	Giriş sistemleri, kullanıcı yönetimi ve güvenlik ayarları yapılıyor.
+• Database search has begun with the initial embending for the career recommendation system.
 
-•	Kişilik analizi için test seçimi yapıldı ve NLP entegrasyonu planlandı.
+• Login systems, user management, and security settings are being finalized.
 
-•	Uygulamanın %55’i tamamlandı. UI detayları ve son testler Sprint 3'e bırakıldı
+• Test selection for personality analysis has been completed, and NLP integration has been planned.
+
+• The application is 55% complete. UI details and final testing have been postponed to Sprint 3.
 
   - **Sprint Review Participants:** Tuba İlhan Horuz, Duygu Başak Acar, Sude Nur Kömür, Melih Talha Bektaş, Saim Berk Akçeşme
 
   - **Sprint Retrospective:**
 
-•	Teknik görevlerin yoğunluğu nedeniyle kodlama süreci beklenenden daha uzun sürdü.
+• The coding process took longer than expected due to the intensity of the technical tasks.
 
-• Prediction modeli yapmaktan vazgeçildi.
+• Creating a prediction model was abandoned.
 
-• Daha esnek, ölçeklenebilir ve kullanıcı girdisine göre dinamik sonuçlar üretmek için embending ile veri tabanı üzerinde arama yapmaya karar verildi.
+• The decision was made to use database searches with embedding to produce more flexible, scalable, and dynamic results based on user input.
 
-•	Berk ve Sude Nur’un web sitesine odaklanması verimliliği artırdı.
+• Berk's work on the website increased focus and productivity.
 
-• Melih ve Duygu’nun Ai kısmına odaklanması verimliliği artırdı.
+• Melih and Duygu's focus on the AI component increased productivity.
 
-• Miro üzerinden yapılan görev dağılımları görev takibini kolaylaştırdı.
+• Task allocation via Miro facilitated task tracking.
 
-•	Takım içi iletişim kuvvetliydi; bu da sprint sonuna doğru hızlanmamıza yardımcı oldu.
+• Communication within the team was strong, which helped us accelerate towards the end of the sprint.
 
-•	İkinci sprintte planlanan görevlerin büyük bir kısmı gerçekleştirildi.
+• Most of the planned tasks were completed in the second sprint.
 
-•	Sprint 3’te kullanıcı testleri, NLP skorlayıcının son hali ve UI/UX detaylarının tamamlanması hedeflenecek.
+• Sprint 3 will focus on user testing, finalizing the NLP scorer, and finalizing UI/UX details.
 
 
   - **Other Notes**:
@@ -449,85 +452,82 @@ Bu dağılım, Sprint 2’de hem yazılım altyapısının sağlamlaştırılmas
 ---
 
 
-**Veriye Dayalı ve Duyarlı Yönlendirme**
+**Data-Driven and Responsive Routing**
 
-Career Path, bireyleri yalnızca veri temelli bir yaklaşımla yönlendirmekle kalmaz; aynı zamanda aşırı üretim ve tüketim döngüsünün oluşturduğu iş gücü etkilerini fark ettirmeyi amaçlar. Dijital ve yeşil dönüşümle ortaya çıkan yeni meslek alanlarına dikkat çekerken, kariyer kararlarının uzun vadeli ekosistem etkilerine dair de farkındalık yaratır.
-
-
-**Etki Odaklı Bir Yaklaşım**
-
-Platform olarak amacımız sadece “hangi mesleği seçmeliyim?” sorusuna cevap vermek değil, bireylerin aynı zamanda “hangi etkiyi bırakmak istiyorum?” sorusunu da kendilerine sormalarını sağlamaktır. Çünkü bizce geleceğin iş gücü; yalnızca verimli değil, aynı zamanda sorumlu ve fark yaratan bireylerden oluşmalıdır.
+Career Path not only guides individuals with a data-driven approach, but also aims to raise awareness of the workforce impacts of the cycle of overproduction and overconsumption. It highlights the new career paths emerging from digital and green transformation, while also raising awareness of the long-term ecosystem impacts of career decisions.
 
 
-**Sürdürülebilir Gelecek İçin Hedefler**
+**An Impact-Focused Approach**
 
-Career Path’in temel hedeflerinden biri, dijital eşitsizlikleri azaltmak, iklim duyarlılığı olan kariyerleri teşvik etmek ve bireylere anlamlı, verimli ve sürdürülebilir meslek yolları sunmaktır. Bu hedefler doğrultusunda sağlam bir teknolojik altyapı, güvenilir bir veri temeli ve öğrencinin gelişimini önceleyen bir öğrenme mühendisliği yaklaşımı ile hareket ediyoruz.
-
-
-**Geleceğin Mesleklerini Keşfetmek**
-
-Tüm bu çabalarımız, bireylerin gelecekte geçerliliğini koruyacak meslekleri keşfetmelerini sağlamak içindir. Böylece her birey, hem kendisi hem de dünya için daha anlamlı ve sürdürülebilir bir kariyer yolculuğuna çıkabilir.
+As a platform, our goal isn't just to answer the question, "Which career should I choose?" but also to encourage individuals to ask themselves, "What impact do I want to leave?" Because we believe the workforce of the future should be comprised of individuals who are not only productive but also responsible and make a difference.
 
 
----
+**Goals for a Sustainable Future**
 
-##  Öğrenme Mühendisliği + Büyük Veri Entegrasyonu
+One of Career Path's core goals is to reduce digital inequalities, promote climate-sensitive careers, and provide individuals with meaningful, productive, and sustainable career paths. Toward these goals, we leverage a robust technological infrastructure, a reliable data foundation, and a learning engineering approach that prioritizes student development.
 
-- **İhtiyaç Analizi:** Öğrencilerin sadece çevresel faktörlere göre meslek seçmesi
-- **Veri Kaynakları:** O*NET, TÜİK, İŞKUR, LinkedIn, Coursera, OECD
-- **AI Destekli Eşleştirme:** Kişilik testi sonuçları + piyasa verileri
-- **Simülasyon:** Sanal meslek deneyimi
-- **Karar Destek:** AI model ile meslek öneri yüzdeleri
+
+**Exploring the Professions of the Future**
+
+All of our efforts are aimed at empowering individuals to discover careers that will remain relevant in the future. This way, each individual can embark on a career journey that is more meaningful and sustainable for both themselves and the world.
 
 ---
 
-##  Kullanılan Teknolojiler ve Araçlar
+## Learning Engineering + Big Data Integration
 
-| Teknoloji | Kullanım Amacı |
+- **Needs Analysis:** Students choose a career based solely on environmental factors.
+- **Data Sources:** O*NET, TÜİK, İŞKUR, LinkedIn, Coursera, OECD
+- **AI-Powered Matching:** Personality test results + market data
+- **Simulation:** Virtual career experience
+- **Decision Support:** Career recommendation percentages with AI model
+---
+
+## Technologies and Tools Used
+
+| Technology | Purpose of Use |
 |-----------|----------------|
-| Python | Veri analizi ve modelleme |
-| Power BI | Meslek veri analiz ve görselleştirme |
-| Coursera Trends / LinkedIn Insights | Becerilere dair büyük veri analizi |
-| Figma / Canva | Öğrenci kariyer plan sunumları |
-| Streamlit / Flask (isteğe bağlı) | AI destekli öneri sistemi prototipi |
+| Python | Data analysis and modeling |
+| Power BI | Profession data analysis and visualization |
+| Coursera Trends / LinkedIn Insights | Big data analysis of skills |
+| Figma / Canva | Student career plan presentations |
+| Streamlit / Flask (optional | AI-powered recommendation system prototype |
 
 
 ---
 
-##  Power BI Dashboard Örnekleri
+## Power BI Dashboard Examples
 
--  Sektörel büyüme haritası  
--  Talep gören mesleklerin yıllık değişimi  
--  Öğrencinin kişisel uyum skoru ve meslek tahmin grafiği
-
+- Sectoral growth map
+- Annual change in in-demand professions
+- Student personal fit score and career prediction graph
 
 ---
 
-##  Proje Dosya Yapısı
+## Project File Structure
 
 ```
-Veriye-Dayali-Kariyer-Kesfi/
+Data-Driven Career Discovery/
 │
-├── data/                   # Ham veri ve örnek CSV dosyaları
-├── dashboards/             # Power BI .pbix dosyaları ve ekran görüntüleri
-├── models/                 # AI model dosyaları (opsiyonel)
-├── src/                    # Python kodları (analiz, eşleştirme)
-├── screenshots/            # Uygulama ekran görüntüleri
-├── wordpress/              # Uygulama web sitesi
-├── README.md               # Proje tanıtımı (bu dosya)
+├── data/                   # Raw data and sample CSV files
+├── dashboards/             # Power BI .pbix files and screenshots
+├── models/                 # AI model files (optional)
+├── src/                    # Python codes (analysis, matching)
+├── screenshots/            # App screenshots
+├── wordpress/              # Application website
+├── README.md               # Project introduction (this file)
 ```
 
 ---
 
-##  Katkıda Bulunmak İster misiniz?
+## Would you like to contribute?
 
-Pull request’lere ve issue açmanıza açığız. Katkı sunmak için:
+We welcome pull requests and issues. To contribute:
 
 ```bash
-1. Hemen web sitemize giriş yap!
-2. Testi çöz!
-3. Sonuçlarını sosyal medyada paylaş!
-4. Bizi etiketlemeyi unutma!!! 😊
+1. Log in to our website now!
+2. Take the quiz!
+3. Share your results on social media!
+4. Don't forget to tag us!!! 😊
 ```
 
 ---
