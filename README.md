@@ -430,6 +430,59 @@ This distribution shows that balanced progress was made in Sprint 2 in terms of 
     
   - **Sprint Notes**:
  
+  - **Technologies Used for Chatbot**:
+  - # Core FastAPI and web framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+pydantic>=2.10.0
+pydantic[email]>=2.10.0
+
+# Database
+sqlalchemy>=2.0.36
+alembic>=1.14.0
+# psycopg2-binary>=2.9.10  # PostgreSQL support - commented out for Windows
+# For PostgreSQL on Windows, use: pip install psycopg2-binary --no-build-isolation
+
+# AI and ML
+google-generativeai>=0.8.3
+
+# Data processing
+pandas>=2.3.1
+numpy>=2.1.0
+python-multipart>=0.0.12
+
+# HTTP and async
+httpx>=0.28.1
+aiohttp>=3.12.0
+requests>=2.32.3
+
+# Environment and configuration
+python-dotenv>=1.0.1
+pydantic-settings>=2.6.1
+
+# Security and authentication
+passlib[bcrypt]>=1.7.4
+
+# Monitoring and logging
+psutil>=6.1.0
+
+# Development and testing
+pytest>=8.3.4
+pytest-asyncio>=0.24.0
+pytest-cov>=6.0.0
+black>=24.10.0
+isort>=5.13.2
+flake8>=7.1.1
+
+# Utilities
+click>=8.1.7
+typer>=0.15.1
+
+# Date and time
+python-dateutil>=2.9.0
+
+# JSON and data handling
+orjson>=3.10.12
   - **Expected point completion within Sprint**
   - **Point Completion Logic**:
   - **Daily Scrum**: 
@@ -517,6 +570,49 @@ Data-Driven Career Discovery/
 ├── README.md               # Project introduction (this file)
 ```
 
+## Artificial Intelligence Architecture
+```
+ai_models/
+│
+├── base_ai.py/                    # Basic AI class
+├── scenario_ai.py/               # Scenario production
+├── evaluation_ai.py/            # User rating
+├── enhanced_career_recom...py/   # Advanced career advice
+└── enhanced_evaluation_ai.py/    # Advanced evaluation
+```
+```
+app/
+├── core/                  # Basic system components
+│   ├── cache.py          # Redis/Memory cache
+│   ├── metrics.py        # Performance metrics
+│   └── security.py       # Auth and security
+├── database/             # Database layer
+│   ├── connection.py     # DB connection management
+│   └── models.py         # SQLAlchemy models
+├── routers/              # API endpoints
+│   ├── careers.py        # Career APIs
+│   ├── chat.py          # Chat system
+│   ├── evaluation.py    # Evaluation APIs
+│   ├── health.py        # Health checks
+│   ├── scenarios.py     # Script production
+│   └── users.py         # User management
+├── services/             # Business logic
+│   ├── onet_data_processor.py    # O*NET data processing
+│   ├── user_profile_manager.py  # Profile management
+│   └── health.py               # Health services
+└── main.py              # FastAPI implementation
+```
+```
+├── app/                    # Main application code
+├── data/                   # O*NET CSV data
+├── career_env/             # Python virtual environment
+├── ai_models/             # AI service modules
+├── tests/                 # Test files
+├── logs/                  # Log files
+├── .github/workflows/     # CI/CD pipeline
+├── .vscode/              # VS Code configuration
+└── config files          # Docker, Nginx, DB, etc.
+```
 ---
 
 ## Would you like to contribute?
