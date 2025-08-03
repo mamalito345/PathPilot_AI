@@ -427,30 +427,41 @@ This distribution shows that balanced progress was made in Sprint 2 in terms of 
   </details>
     
   - **Sprint Notes**:
+
     •Datasets are fully organized and ready for use.
+
     •AI model development completed.
+
     •The website has been finalized in line with the necessary needs and modernization requirements.
+
     •Chatbot was made ready with the organized data sets and necessary operations.
+
     •Necessary web integration was provided and the chatbot was connected.
+
     •The website with artificial intelligence integration was ready for practical use after real tests.
  
   - **Technologies Used for Chatbot**:
 
-  - **Expected point completion within Sprint**
+  - **Expected point completion within Sprint**: **200 Points** 
   - **Point Completion Logic**:
   - **Daily Scrum**:
+    
     •Since the delivery date was approaching and the product was required to be of much higher quality, some days were spent in online meetings.
+
     • Regular meetings were held via Google Meet at regular intervals.
+
     • Continuous and instant communication was maintained via the WhatsApp group.
+
     • Daily task tracking was maintained via Miro.  
-  - **Product Backlog URL:** 
+  
+  - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=476687804339 (Miro)
   - **Sprint Review**:
-  - **Sprint Review Participants:** 
+  - **Sprint Review Participants:** `Tuba İlhan Horuz`, `Duygu Başak Acar`, `Melih Talha Bektaş`, `Saim Berk Akçeşme`
   - **Sprint Retrospective:**
   - **Other Notes**:
   <details>
     <summary><h3>Additional Files</h3></summary>
-  - # Core FastAPI and web framework
+# Core FastAPI and web framework 
 fastapi>=0.115.0
 uvicorn[standard]>=0.32.0
 pydantic>=2.10.0
@@ -459,8 +470,9 @@ pydantic[email]>=2.10.0
 # Database
 sqlalchemy>=2.0.36
 alembic>=1.14.0
-# psycopg2-binary>=2.9.10  # PostgreSQL support - commented out for Windows
-# For PostgreSQL on Windows, use: pip install psycopg2-binary --no-build-isolation
+# psycopg2-binary>=2.9.10  
+# PostgreSQL support - commented out for Windows
+For PostgreSQL on Windows, use: pip install psycopg2-binary --no-build-isolation
 
 # AI and ML
 google-generativeai>=0.8.3
