@@ -507,6 +507,7 @@ Data and model integration was successful: The AI model and chatbot system were 
 Real user testing was conducted: The system was made ready for use and successfully passed testing.
 
   - **Other Notes**:
+  - The project was developed using the Replit platform. Replit's online development environment facilitated seamless artificial intelligence integrations.
   <details>
     <summary><h3>Additional Files</h3></summary>
 
