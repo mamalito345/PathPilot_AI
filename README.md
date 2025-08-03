@@ -442,6 +442,23 @@ This distribution shows that balanced progress was made in Sprint 2 in terms of 
  
   - **Expected point completion within Sprint**: **200 Points** 
   - **Point Completion Logic**:
+All project tasks in this sprint have been successfully completed. The point distribution was carried out in alignment with the Google Project Management methodology, taking into account technical complexity, time investment, and value contribution of each deliverable.
+
+| Task Description                  | Points |
+|----------------------------------|--------|
+| Website finalized                | 40     |
+| AI model developed               | 40     |
+| AI–Web integration completed     | 30     |
+| Chatbot created                  | 30     |
+| Datasets organized               | 30     |
+| Chatbot connection established   | 30     |
+| **Total**                        | **200** |
+
+
+The sprint goal was to complete all planned technical tasks and deliver a fully functioning AI-integrated web platform. This goal was successfully achieved with a total score of 200/200.
+
+The point-based breakdown ensured effective prioritization and resource allocation across the sprint. Each completed task directly contributed to the overall functionality and usability of the final product.
+
   - **Daily Scrum**:
     
     •Since the delivery date was approaching and the product was required to be of much higher quality, some days were spent in online meetings.
@@ -454,6 +471,24 @@ This distribution shows that balanced progress was made in Sprint 2 in terms of 
   
   - **Product Backlog URL:** https://miro.com/app/board/uXjVIicQLWg=/?share_link_id=476687804339 (Miro)
   - **Sprint Review**:
+
+    The goal of this sprint was to finalize the AI-powered career guidance website by integrating all components, ensuring functionality through real-user testing, and making the system ready for practical use.
+
+Completed Deliverables:
+
+- Datasets Organized: All datasets were cleaned, structured, and categorized based on project requirements.
+
+- AI Model Developed: A model was trained and validated to provide career recommendations based on user input.
+
+- Website Finalized: The user interface was updated and modernized to ensure a seamless user experience.
+
+- Chatbot Prepared: The AI model was integrated into a chatbot infrastructure to provide dynamic, data-driven responses.
+
+- Web Integration Completed: The chatbot was successfully embedded into the website, ensuring compatibility and functionality.
+
+- Real User Testing Conducted: The system was tested by users and proven to be fully functional, ready for deployment.
+
+All planned items were successfully completed. With this sprint, the project reached a Minimum Viable Product (MVP) stage and is now ready for real-world use.
   - **Sprint Review Participants:** `Tuba İlhan Horuz`, `Duygu Başak Acar`, `Melih Talha Bektaş`, `Saim Berk Akçeşme`
   - **Sprint Retrospective:**
   - **Other Notes**:
