@@ -425,7 +425,7 @@ This distribution shows that balanced progress was made in Sprint 2 in terms of 
 
   <details>
     <summary><h3>Sprint 3 - Burndown Chart</h3></summary>
-    <img width="2400" height="1200" alt="sprint3_burndown_chart_2weeks" src="https://github.com/user-attachments/assets/587272ef-a076-4bc4-b79a-7a042a4a9e94" />
+    <img width="800" height="400" alt="sprint3_burndown_chart_2weeks" src="https://github.com/user-attachments/assets/587272ef-a076-4bc4-b79a-7a042a4a9e94" />
 
 The blue dashed line represents the ideal estimated burndown trajectory—completing 20 points per day. The green solid line shows the actual remaining work.
 As seen, the team slightly lagged behind the ideal pace during the first few days but gradually caught up. By Day 10, all 200 points were successfully completed. This reflects a well-managed sprint with effective adaptation and recovery. 
@@ -497,6 +497,15 @@ Completed Deliverables:
 All planned items were successfully completed. With this sprint, the project reached a Minimum Viable Product (MVP) stage and is now ready for real-world use.
   - **Sprint Review Participants:** `Tuba İlhan Horuz`, `Duygu Başak Acar`, `Melih Talha Bektaş`, `Saim Berk Akçeşme`
   - **Sprint Retrospective:**
+
+All goals were completed: The planned workload of 200 points was fully achieved by the end of the sprint.
+
+Team communication was strong: Regular communication via WhatsApp and Google Meet enhanced team collaboration.
+
+Data and model integration was successful: The AI model and chatbot system were successfully integrated.
+
+Real user testing was conducted: The system was made ready for use and successfully passed testing.
+
   - **Other Notes**:
   <details>
     <summary><h3>Additional Files</h3></summary>
