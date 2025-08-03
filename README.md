@@ -461,7 +461,8 @@ This distribution shows that balanced progress was made in Sprint 2 in terms of 
   - **Other Notes**:
   <details>
     <summary><h3>Additional Files</h3></summary>
-# Core FastAPI and web framework 
+
+  # Core FastAPI and web framework 
 fastapi>=0.115.0
 uvicorn[standard]>=0.32.0
 pydantic>=2.10.0
