@@ -1,5 +1,7 @@
 # CARRER PATH
-<img src="https://github.com/user-attachments/assets/cdf0a44b-c1fc-442d-8143-c9f2375d5b15" alt="career path" width="400"/>
+
+<img width="540" height="540" alt="Title (1)" src="https://github.com/user-attachments/assets/86e767dc-a76c-4e57-818d-4ab29f319c03" />
+
 
 ## Team Members
 
@@ -423,7 +425,11 @@ This distribution shows that balanced progress was made in Sprint 2 in terms of 
 
   <details>
     <summary><h3>Sprint 3 - Burndown Chart</h3></summary>
-    
+    <img width="2400" height="1200" alt="sprint3_burndown_chart_2weeks" src="https://github.com/user-attachments/assets/587272ef-a076-4bc4-b79a-7a042a4a9e94" />
+
+The blue dashed line represents the ideal estimated burndown trajectory—completing 20 points per day. The green solid line shows the actual remaining work.
+As seen, the team slightly lagged behind the ideal pace during the first few days but gradually caught up. By Day 10, all 200 points were successfully completed. This reflects a well-managed sprint with effective adaptation and recovery. 
+
   </details>
     
   - **Sprint Notes**:
