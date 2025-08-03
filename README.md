@@ -405,7 +405,11 @@ This distribution shows that balanced progress was made in Sprint 2 in terms of 
 
   <details>
     <summary><h3>Sprint 3 - Screenshots</h3></summary>
-   
+ 
+  |![WhatsApp Image 2025-08-03 at 19 39 26](https://github.com/user-attachments/assets/e7ac3b68-11e2-4d3a-b216-2cf15814cfba)|![WhatsApp Image 2025-08-03 at 19 39 03](https://github.com/user-attachments/assets/be46104f-5e1d-447f-b997-1f86122f012a)|![WhatsApp Image 2025-08-03 at 19 40 50](https://github.com/user-attachments/assets/cbf2d603-38cc-4f13-80de-28fb98da88bd)|
+|:--:|:--:|:--:|
+| **Web Application 1** | **Web Application 2** | **Web Application 3**|
+
   </details>  
 
   <details>
