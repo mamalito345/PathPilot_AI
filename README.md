@@ -423,6 +423,12 @@ This distribution shows that balanced progress was made in Sprint 2 in terms of 
   </details>
     
   - **Sprint Notes**:
+    •Datasets are fully organized and ready for use.
+    •AI model development completed.
+    •The website has been finalized in line with the necessary needs and modernization requirements.
+    •Chatbot was made ready with the organized data sets and necessary operations.
+    •Necessary web integration was provided and the chatbot was connected.
+    •The website with artificial intelligence integration was ready for practical use after real tests.
  
   - **Technologies Used for Chatbot**:
   - # Core FastAPI and web framework
