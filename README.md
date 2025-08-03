@@ -1,6 +1,15 @@
+
 # CARRER PATH
 
 <img width="540" height="540" alt="Title (1)" src="https://github.com/user-attachments/assets/86e767dc-a76c-4e57-818d-4ab29f319c03" />
+
+
+# DATA: https://drive.google.com/file/d/1vJHj8vzb4XUcUh5pvIOYPEUeGxxwmGpU/view?pli=1
+
+# Instagram:https://www.instagram.com/career_path01?igsh=dG9hYnRrOHEyOGV1&utm_source=qr
+
+# Youtube:https://youtu.be/sjceSEYRj9o
+
 
 
 ## Team Members
