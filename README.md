@@ -410,7 +410,11 @@ This distribution shows that balanced progress was made in Sprint 2 in terms of 
 
   <details>
     <summary><h3>Sprint 3 - Sprint Board Update Screenshots</h3></summary>
-   
+    
+|<img width="1418" height="652" alt="miros3" src="https://github.com/user-attachments/assets/a3a61721-cfd3-4db6-bb80-ce83d1e1d419" />|<img width="1437" height="670" alt="miros3 1" src="https://github.com/user-attachments/assets/21396e16-63bc-43df-a498-a77961a00e2e" />|<img width="1505" height="667" alt="miros3 2" src="https://github.com/user-attachments/assets/0159d387-0692-46b9-ba28-7198f9c436c4" />|
+|:--:|:--:|:--:|
+| MİRO 1 | MİRO 2 | MİRO 3 |
+    
   </details>
 
   <details>
