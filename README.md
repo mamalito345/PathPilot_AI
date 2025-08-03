@@ -69,17 +69,7 @@
   </tr>
 
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/b01c8635-1ffe-4a35-ba3a-a1be23f41ff6" width="60"/></td>
-    <td>Sude Nur KÖMÜR</td>
-    <td>Developer</td>
-    <td>
-      <a href="https://www.linkedin.com/in/sudenurkomur/" style="display:inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
-      </a>
-      <a href="https://github.com/sudenurkomur" style="display:inline-block; margin-left:4px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
-      </a>
-    </td>
+   
   </tr>
 </table>
 
