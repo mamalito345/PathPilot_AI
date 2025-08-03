@@ -613,8 +613,8 @@ All of our efforts are aimed at empowering individuals to discover careers that 
 | Python | Data analysis and modeling |
 | Power BI | Profession data analysis and visualization |
 | Coursera Trends / LinkedIn Insights | Big data analysis of skills |
-| Figma / Canva | Student career plan presentations |
-| Streamlit / Flask (optional | AI-powered recommendation system prototype |
+| Canva | Student career plan presentations |
+| Peplit | Website |
 
 
 ---
