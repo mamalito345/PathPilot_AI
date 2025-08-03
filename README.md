@@ -485,7 +485,11 @@ python-dateutil>=2.9.0
 orjson>=3.10.12
   - **Expected point completion within Sprint**
   - **Point Completion Logic**:
-  - **Daily Scrum**: 
+  - **Daily Scrum**:
+    •Since the delivery date was approaching and the product was required to be of much higher quality, some days were spent in online meetings.
+    • Regular meetings were held via Google Meet at regular intervals.
+    • Continuous and instant communication was maintained via the WhatsApp group.
+    • Daily task tracking was maintained via Miro.  
   - **Product Backlog URL:** 
   - **Sprint Review**:
   - **Sprint Review Participants:** 
