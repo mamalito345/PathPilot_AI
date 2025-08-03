@@ -435,6 +435,21 @@ This distribution shows that balanced progress was made in Sprint 2 in terms of 
     •The website with artificial intelligence integration was ready for practical use after real tests.
  
   - **Technologies Used for Chatbot**:
+
+  - **Expected point completion within Sprint**
+  - **Point Completion Logic**:
+  - **Daily Scrum**:
+    •Since the delivery date was approaching and the product was required to be of much higher quality, some days were spent in online meetings.
+    • Regular meetings were held via Google Meet at regular intervals.
+    • Continuous and instant communication was maintained via the WhatsApp group.
+    • Daily task tracking was maintained via Miro.  
+  - **Product Backlog URL:** 
+  - **Sprint Review**:
+  - **Sprint Review Participants:** 
+  - **Sprint Retrospective:**
+  - **Other Notes**:
+  <details>
+    <summary><h3>Additional Files</h3></summary>
   - # Core FastAPI and web framework
 fastapi>=0.115.0
 uvicorn[standard]>=0.32.0
@@ -487,21 +502,6 @@ python-dateutil>=2.9.0
 
 # JSON and data handling
 orjson>=3.10.12
-  - **Expected point completion within Sprint**
-  - **Point Completion Logic**:
-  - **Daily Scrum**:
-    •Since the delivery date was approaching and the product was required to be of much higher quality, some days were spent in online meetings.
-    • Regular meetings were held via Google Meet at regular intervals.
-    • Continuous and instant communication was maintained via the WhatsApp group.
-    • Daily task tracking was maintained via Miro.  
-  - **Product Backlog URL:** 
-  - **Sprint Review**:
-  - **Sprint Review Participants:** 
-  - **Sprint Retrospective:**
-  - **Other Notes**:
-  <details>
-    <summary><h3>Additional Files</h3></summary>
-
    
   </details>
 
