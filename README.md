@@ -440,8 +440,6 @@ This distribution shows that balanced progress was made in Sprint 2 in terms of 
 
     •The website with artificial intelligence integration was ready for practical use after real tests.
  
-  - **Technologies Used for Chatbot**:
-
   - **Expected point completion within Sprint**: **200 Points** 
   - **Point Completion Logic**:
   - **Daily Scrum**:
@@ -462,6 +460,7 @@ This distribution shows that balanced progress was made in Sprint 2 in terms of 
   <details>
     <summary><h3>Additional Files</h3></summary>
 
+  **Technologies Used for Chatbot**: 
   # Core FastAPI and web framework 
 fastapi>=0.115.0
 uvicorn[standard]>=0.32.0
